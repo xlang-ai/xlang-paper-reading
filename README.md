@@ -1,4 +1,4 @@
-# Tool-use LLMs Papers
+# LLM Tool Use Papers
 ![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-62-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
