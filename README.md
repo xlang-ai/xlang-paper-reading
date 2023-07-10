@@ -264,6 +264,12 @@ This is a paper list about **Tool-use** for large-scale pre-trained language mod
 
     *Swarnadeep Saha, Peter Hase, Mohit Bansal*  [[pdf](https://arxiv.org/abs/2306.09299)], 2023.6
 
+
+63. **Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow.** Arxiv
+
+    *Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang*  [[pdf](https://arxiv.org/abs/2306.07209)], 2023.6
+    
+
 ## Code generation papers
 
 1. **On-the-Fly Adaptation of Source Code Models using Meta-Learning.** NeurIPS 2020 CAP Workshop
