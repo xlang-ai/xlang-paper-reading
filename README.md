@@ -3,13 +3,7 @@
 
 
 ## Introduction
-This is a paper list about **Tool-use** for large-scale pre-trained language models. Combine neural modules and symbolic components to make NLP systems more robust and interpretable is empowering large language models to utilize various tools and plugins (known as “symbolic components” and “neural modules”) to reason, which helps LLMs in:
-- Weak symbolic reasoning (for math problems etc.)
-- Hallucinations in reasoning (for highly precision-dependency fields)
-- Missing/wrong real-time information (for time-sensitive fields)
-- Blind real-world experience (for robotics etc.)
-- No specific/private knowledge (for data-sensitive companies etc.)
-- Limited context window length (for structured knowledge grounding etc.)
+
 
 ### Group
 
@@ -24,7 +18,7 @@ This is a paper list about **Tool-use** for large-scale pre-trained language mod
    
    *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence*  [[pdf](https://arxiv.org/abs/2204.00598)], 2022.4
 
-3. **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** Arxiv
+3. **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** CoRL 2022
    
    *Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng*  [[pdf](https://arxiv.org/abs/2204.01691)], 2022.4
 
@@ -44,7 +38,7 @@ This is a paper list about **Tool-use** for large-scale pre-trained language mod
    
    *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg*  [[pdf](https://arxiv.org/abs/2209.11302)], 2022.9
 
-8. **Code as Policies: Language Model Programs for Embodied Control.** Arxiv
+8. **Code as Policies: Language Model Programs for Embodied Control.** ICRA 2023
    
    *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng*  [[pdf](https://arxiv.org/abs/2209.07753)], 2022.9
 
