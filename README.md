@@ -1,5 +1,5 @@
 # LLM Tool Use Papers
-![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-63-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-85-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 ## Introduction
@@ -48,7 +48,7 @@
 
 10. **Binding Language Models in Symbolic Languages.** ICLR 2023
 
-   *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu*  [[pdf](https://arxiv.org/abs/2210.02875)], 2022.10
+    *Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu*  [[pdf](https://arxiv.org/abs/2210.02875)], 2022.10
 
 11. **VIMA: General Robot Manipulation with Multimodal Prompts.** ICML 2023
 
@@ -297,7 +297,6 @@
 72. **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind.** Arxiv
 
     *Swarnadeep Saha, Peter Hase, Mohit Bansal*  [[pdf](https://arxiv.org/abs/2306.09299)], 2023.6
-
 
 63. **Generating Language Corrections for Teaching Physical Control Tasks** ICML 2023
 
