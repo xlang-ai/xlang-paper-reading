@@ -1,5 +1,5 @@
 # LLM Tool Use Papers
-![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-85-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-86-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 ## Introduction
@@ -298,55 +298,59 @@
 
     *Swarnadeep Saha, Peter Hase, Mohit Bansal*  [[pdf](https://arxiv.org/abs/2306.09299)], 2023.6
 
-63. **Generating Language Corrections for Teaching Physical Control Tasks** ICML 2023
+73. **Generating Language Corrections for Teaching Physical Control Tasks** ICML 2023
 
     *Megha Srivastava, Noah Goodman, Dorsa Sadigh*  [[pdf](https://arxiv.org/abs/2306.07012)], 2023.6
 
-64. **Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow.** Arxiv
+74. **Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow.** Arxiv
 
     *Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang*  [[pdf](https://arxiv.org/abs/2306.07209)], 2023.6
 
-65. **SayTap: Language to Quadrupedal Locomotion** Arxiv
+75. **SayTap: Language to Quadrupedal Locomotion** Arxiv
 
     *Yujin Tang, Wenhao Yu, Jie Tan, Heiga Zen, Aleksandra Faust, Tatsuya Harada*  [[pdf](https://arxiv.org/abs/2306.07580)], 2023.6
 
-66. **Language to Rewards for Robotic Skill Synthesis** Arxiv
+76. **Language to Rewards for Robotic Skill Synthesis** Arxiv
 
     *Wenhao Yu, Nimrod Gileadi, Chuyuan Fu, Sean Kirmani, Kuang-Huei Lee, Montse Gonzalez Arenas, Hao-Tien Lewis Chiang, Tom Erez, Leonard Hasenclever, Jan Humplik, Brian Ichter, Ted Xiao, Peng Xu, Andy Zeng, Tingnan Zhang, Nicolas Heess, Dorsa Sadigh, Jie Tan, Yuval Tassa, Fei Xia*  [[pdf](https://arxiv.org/abs/2306.08647)], 2023.6
 
-67. **REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction** Arxiv
+77. **REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction** Arxiv
 
     *Zeyi Liu, Arpit Bahety, Shuran Song*  [[pdf](https://arxiv.org/abs/2306.15724)], 2023.6
 
-68. **ChatGPT for Robotics: Design Principles and Model Abilities** Arxiv
+78. **ChatGPT for Robotics: Design Principles and Model Abilities** Arxiv
 
     *Sai Vemprala, Rogerio Bonatti, Arthur Bucker, Ashish Kapoor*  [[pdf](https://arxiv.org/abs//2306.17582)], 2023.6
 
-69. **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners** Arxiv
+79. **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners** Arxiv
 
     *Allen Z. Ren, Anushri Dixit, Alexandra Bodrova, Sumeet Singh, Stephen Tu, Noah Brown, Peng Xu, Leila Takayama, Fei Xia, Jake Varley, Zhenjia Xu, Dorsa Sadigh, Andy Zeng, Anirudha Majumdar*  [[pdf](https://arxiv.org/abs/2307.01928)], 2023.7
 
-70. **Building Cooperative Embodied Agents Modularly with Large Language Models** Arxiv
+80. **Building Cooperative Embodied Agents Modularly with Large Language Models** Arxiv
 
     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan*  [[pdf](https://arxiv.org/abs/2307.02485)], 2023.7
 
-71. **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** Arxiv
+81. **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** Arxiv
 
     *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei*  [[pdf](https://arxiv.org/abs/2307.05973)], 2023.7
 
-72. **Demonstrating Large Language Models on Robots** RSS 2023 Demo Track
+82. **Demonstrating Large Language Models on Robots** RSS 2023 Demo Track
 
     *Google DeepMind*  [[pdf](https://roboticsconference.org/program/papers/024)], 2023.7
 
-73. **GenSim: Generative Models for Supersizing Robotic Simulation Tasks** Github
+83. **GenSim: Generative Models for Supersizing Robotic Simulation Tasks** Github
 
     *Lirui Wang*  [[pdf](https://github.com/liruiw/GenSim)], 2023.7
 
-74. **Large Language Models as General Pattern Machines** Arxiv
+84. **Large Language Models as General Pattern Machines** Arxiv
 
     *Suvir Mirchandani, Fei Xia, Pete Florence, Brian Ichter, Danny Driess, Montserrat Gonzalez Arenas, Kanishka Rao, Dorsa Sadigh, Andy Zeng*  [[pdf](https://arxiv.org/abs/2307.04721)], 2023.7
 
-75. **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning** Arxiv
+85. **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning** Arxiv
 
     *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf*  [[pdf](https://arxiv.org/abs/2307.06135)], 2023.7
+
+86. **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models** Arxiv
+
+    *Zhao Mandi, Shreeya Jain, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.04738)], 2023.7
 
