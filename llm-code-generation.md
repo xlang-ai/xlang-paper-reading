@@ -60,7 +60,7 @@
 
     *Angelica Chen, David M. Dohan, David R. So*  [[pdf](https://arxiv.org/abs/2302.14838)], 2023.2.28
    
-1. **Planning with Large Language Models for Code Generation.** Arxiv
+1. **Planning with Large Language Models for Code Generation.** ICLR 2023
 
     *Shun Zhang, Zhenfang Chen, Yikang Shen, Mingyu Ding, Joshua B. Tenenbaum, Chuang Gan.*  [[pdf](https://arxiv.org/abs/2303.05510)], 2023.3.9
    
