@@ -12,6 +12,10 @@
    
     *Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals*  [[pdf](https://arxiv.org/abs/2203.07814)], 2022.2.8
 
+1. **Making Large Language Models Better Reasoners with Step-Aware Verifier.** ACL 2023
+
+   *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2206.02336)], 2022.6.6
+
 1. **Repository-Level Prompt Generation for Large Language Models of Code.** ICML 2023
 
     *Disha Shrivastava, Hugo Larochelle, Daniel Tarlow*  [[pdf](https://arxiv.org/abs/2206.12839)], 2022.6.26
