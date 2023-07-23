@@ -16,6 +16,10 @@
 
    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2206.02336)], 2022.6.6
 
+1. **CodeS: Towards Code Model Generalization Under Distribution Shift.** ICSE-NIER 2023
+
+   *Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon*  [[pdf](https://arxiv.org/abs/2206.05480)]
+
 1. **NatGen: Generative pre-training by "Naturalizing" source code.** ESEC/FSE 2022
 
    *Saikat Chakraborty, Toufique Ahmed, Yangruibo Ding, Premkumar Devanbu, Baishakhi Ray* [[pdf](https://arxiv.org/abs/2206.07585)], 2022.6.15
