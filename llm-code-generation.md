@@ -16,10 +16,6 @@
 
     *Disha Shrivastava, Hugo Larochelle, Daniel Tarlow*  [[pdf](https://arxiv.org/abs/2206.12839)], 2022.6.26
 
-1. **Language Models Can Teach Themselves to Program Better.** ICLR 2023
-   
-    *Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai*  [[pdf](https://arxiv.org/abs/2207.14502)], 2022.7.29
-
 1. **DocPrompting: Generating Code by Retrieving the Docs.** ICLR 2023
 
     *Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*  [[pdf](https://arxiv.org/abs/2207.05987)], 2022.7.13
