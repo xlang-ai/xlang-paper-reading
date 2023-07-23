@@ -16,6 +16,10 @@
 
    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2206.02336)], 2022.6.6
 
+1. **NatGen: Generative pre-training by "Naturalizing" source code.** ESEC/FSE 2022
+
+   *Saikat Chakraborty, Toufique Ahmed, Yangruibo Ding, Premkumar Devanbu, Baishakhi Ray* [[pdf](https://arxiv.org/abs/2206.07585)], 2022.6.15
+
 1. **Repository-Level Prompt Generation for Large Language Models of Code.** ICML 2023
 
     *Disha Shrivastava, Hugo Larochelle, Daniel Tarlow*  [[pdf](https://arxiv.org/abs/2206.12839)], 2022.6.26
