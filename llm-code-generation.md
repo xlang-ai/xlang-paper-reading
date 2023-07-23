@@ -84,6 +84,10 @@
 
     *Jiawei Liu, Chunqiu Steven Xia, Yuyao Wang, Lingming Zhang*  [[pdf](https://arxiv.org/abs/2305.01210)], 2023.5.2
 
+1. **SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs.** Arxiv
+
+   *IokTong Lei, ZhiDong Deng*  [[pdf](https://arxiv.org/abs/2305.11461)], 2023.5.19
+
 1. **Text-to-SQL Error Correction with Language Models of Code.** ACL 2023
 
     *Ziru Chen, Shijie Chen, Michael White, Raymond Mooney, Ali Payani, Jayanth Srinivasa, Yu Su, Huan Sun*  [[pdf](https://arxiv.org/abs/2305.13073)], 2023.5.22
