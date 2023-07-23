@@ -18,7 +18,7 @@
 
 1. **CodeS: Towards Code Model Generalization Under Distribution Shift.** ICSE-NIER 2023
 
-   *Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon*  [[pdf](https://arxiv.org/abs/2206.05480)]
+   *Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon*  [[pdf](https://arxiv.org/abs/2206.05480)], 2022.6.11
 
 1. **NatGen: Generative pre-training by "Naturalizing" source code.** ESEC/FSE 2022
 
