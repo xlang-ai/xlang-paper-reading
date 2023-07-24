@@ -100,6 +100,10 @@
 
     *Jiawei Liu, Chunqiu Steven Xia, Yuyao Wang, Lingming Zhang*  [[pdf](https://arxiv.org/abs/2305.01210)], 2023.5.2
 
+1. **Self-Edit: Fault-Aware Code Editor for Code Generation.** ACL 2023
+
+   *Kechi Zhang, Zhuo Li, Jia Li, Ge Li, Zhi Jin*  [[pdf](https://arxiv.org/abs/2305.04087)], 2023.5.6
+
 1. **SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs.** Arxiv
 
    *IokTong Lei, ZhiDong Deng*  [[pdf](https://arxiv.org/abs/2305.11461)], 2023.5.19
