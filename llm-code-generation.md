@@ -14,7 +14,7 @@
 
 1. **An Exploratory Study on Code Attention in BERT.** ICPC 2022
 
-   *Rishab Sharma, Fuxiang Chen, Fatemeh Fard, David Lo*  [[pdf](https://arxiv.org/abs/2204.10200)]
+   *Rishab Sharma, Fuxiang Chen, Fatemeh Fard, David Lo*  [[pdf](https://arxiv.org/abs/2204.10200)], 2022.4.5
 
 1. **Fault-Aware Neural Code Rankers.** NeurIPS 2022
 
