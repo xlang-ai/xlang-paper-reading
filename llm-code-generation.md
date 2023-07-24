@@ -12,6 +12,10 @@
    
     *Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals*  [[pdf](https://arxiv.org/abs/2203.07814)], 2022.2.8
 
+1. **An Exploratory Study on Code Attention in BERT.** ICPC 2022
+
+   *Rishab Sharma, Fuxiang Chen, Fatemeh Fard, David Lo*  [[pdf](https://arxiv.org/abs/2204.10200)]
+
 1. **Fault-Aware Neural Code Rankers.** NeurIPS 2022
 
    *Jeevana Priya Inala, Chenglong Wang, Mei Yang, Andres Codas, Mark Encarnación, Shuvendu K Lahiri, Madanlal Musuvathi, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2206.03865)], 2022.6.4
