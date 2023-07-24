@@ -96,6 +96,10 @@
 
     *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang*  [[pdf](https://arxiv.org/abs/2304.12244)], 2023.4.24
 
+1. **Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation.** ICML 2023
+
+   *Wenqing Zheng, S P Sharan, Ajay Kumar Jaiswal, Kevin Wang, Yihan Xi, Dejia Xu, Zhangyang Wang*  [[pdf](https://arxiv.org/abs/2305.00909)], 2023.4.28
+
 1. **From Words to Code: Harnessing Data for Program Synthesis from Natural Language.** Arxiv
 
     *Anirudh Khatry, Joyce Cahoon, Jordan Henkel, Shaleen Deep, Venkatesh Emani, Avrilia Floratou, Sumit Gulwani, Vu Le, Mohammad Raza, Sherry Shi, Mukul Singh, Ashish Tiwari*  [[pdf](https://arxiv.org/abs/2305.01598)], 2023.5.2
