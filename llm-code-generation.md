@@ -48,6 +48,10 @@
 
     *Bei Chen, Fengji Zhang, Anh Nguyen, Daoguang Zan, Zeqi Lin, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2207.10397)], 2022.7.21
 
+1. **Neurosymbolic Repair for Low-Code Formula Languages.** OOPSLA 2022
+
+    *Rohan Bavishi, Harshit Joshi, José Pablo Cambronero Sánchez, Anna Fariha, Sumit Gulwani, Vu Le, Ivan Radicek, Ashish Tiwari*  [[pdf](https://arxiv.org/abs/2207.11765)]
+
 1. **Language Models Can Teach Themselves to Program Better.** ICLR 2023
 
     *Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai*  [[pdf](https://arxiv.org/abs/2207.14502)], 2022.7.29
