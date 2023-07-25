@@ -16,6 +16,10 @@
 
    *Rishab Sharma, Fuxiang Chen, Fatemeh Fard, David Lo*  [[pdf](https://arxiv.org/abs/2204.10200)], 2022.4.5
 
+1. **CoCoSoDa: Effective Contrastive Learning for Code Search.** ICSE 2023
+
+   *Ensheng Shi, Yanlin Wang, Wenchao Gu, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun* [[pdf](https://arxiv.org/abs/2204.03293)], 2022.4.7
+
 1. **Fault-Aware Neural Code Rankers.** NeurIPS 2022
 
    *Jeevana Priya Inala, Chenglong Wang, Mei Yang, Andres Codas, Mark Encarnación, Shuvendu K Lahiri, Madanlal Musuvathi, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2206.03865)], 2022.6.4
