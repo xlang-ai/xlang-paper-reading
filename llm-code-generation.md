@@ -108,6 +108,10 @@
 
     *Jiawei Liu, Chunqiu Steven Xia, Yuyao Wang, Lingming Zhang*  [[pdf](https://arxiv.org/abs/2305.01210)], 2023.5.2
 
+1. **On Contrastive Learning of Semantic Similarity forCode to Code Search.**  Arxiv
+
+   *Anthony Saieva, Saikat Chakraborty, Gail Kaiser*  [[pdf](https://arxiv.org/abs/2305.03843)], 2023.5.5
+
 1. **Self-Edit: Fault-Aware Code Editor for Code Generation.** ACL 2023
 
    *Kechi Zhang, Zhuo Li, Jia Li, Ge Li, Zhi Jin*  [[pdf](https://arxiv.org/abs/2305.04087)], 2023.5.6
