@@ -120,6 +120,10 @@
 
    *Kechi Zhang, Zhuo Li, Jia Li, Ge Li, Zhi Jin*  [[pdf](https://arxiv.org/abs/2305.04087)], 2023.5.6
 
+1. **Code Execution with Pre-trained Language Models.** ACL 2023 Findings
+
+   *Chenxiao Liu, Shuai Lu, Weizhu Chen, Daxin Jiang, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan, Nan Duan*  [[pdf](https://arxiv.org/abs/2305.05383)], 2023.5.8
+
 1. **SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs.** Arxiv
 
    *IokTong Lei, ZhiDong Deng*  [[pdf](https://arxiv.org/abs/2305.11461)], 2023.5.19
