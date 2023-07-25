@@ -180,3 +180,7 @@
 
     *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao*  [[pdf](https://arxiv.org/abs/2306.14898)], 2023.6.26
 
+1. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**, Arxiv
+
+    *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7.24
+
