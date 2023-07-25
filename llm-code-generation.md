@@ -50,7 +50,7 @@
 
 1. **Neurosymbolic Repair for Low-Code Formula Languages.** OOPSLA 2022
 
-    *Rohan Bavishi, Harshit Joshi, José Pablo Cambronero Sánchez, Anna Fariha, Sumit Gulwani, Vu Le, Ivan Radicek, Ashish Tiwari*  [[pdf](https://arxiv.org/abs/2207.11765)]
+    *Rohan Bavishi, Harshit Joshi, José Pablo Cambronero Sánchez, Anna Fariha, Sumit Gulwani, Vu Le, Ivan Radicek, Ashish Tiwari*  [[pdf](https://arxiv.org/abs/2207.11765)], 2022.7.24
 
 1. **Language Models Can Teach Themselves to Program Better.** ICLR 2023
 
