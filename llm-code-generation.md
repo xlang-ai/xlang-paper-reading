@@ -52,6 +52,10 @@
 
     *Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai*  [[pdf](https://arxiv.org/abs/2207.14502)], 2022.7.29
 
+1. **CSSAM: Code Search via Attention Matching of Code Semantics and Structures.** SANER 2023
+
+    *Yi Hu, Bo Cai, Yaoxiang Yu*  [[pdf](https://arxiv.org/abs/2208.03922)], 2022.8.8
+
 1. **Incorporating Domain Knowledge through Task Augmentation for Front-End JavaScript Code Generation.** ESEC/FSE 2022
 
     *Sijie Shen, Xiang Zhu, Yihong Dong, Qizhi Guo, Yankun Zhen, Ge Li*  [[pdf](https://arxiv.org/abs/2208.10091)], 2022.8.22
