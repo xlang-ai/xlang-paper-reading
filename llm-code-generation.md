@@ -184,7 +184,11 @@
 
     *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao*  [[pdf](https://arxiv.org/abs/2306.14898)], 2023.6.26
 
-1. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis**, Arxiv
+1. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
 
     *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7.24
+
+1. **Predicting Code Coverage without Execution.** Arxiv
+
+   *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
 
