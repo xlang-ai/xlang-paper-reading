@@ -354,3 +354,6 @@
 
     *Zhao Mandi, Shreeya Jain, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.04738)], 2023.7
 
+87. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
+
+    *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
