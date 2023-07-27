@@ -1,5 +1,5 @@
 # LLM Tool Use Papers
-![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-86-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-88-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 ## Introduction
@@ -354,6 +354,10 @@
 
     *Zhao Mandi, Shreeya Jain, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.04738)], 2023.7
 
-87. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
+87. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
+
+    *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7
+
+88. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
 
     *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
