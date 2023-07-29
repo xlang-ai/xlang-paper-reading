@@ -1,5 +1,5 @@
 # LLM Tool Use Papers
-![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-88-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-89-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 ## Introduction
@@ -361,3 +361,7 @@
 88. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
 
     *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
+
+89. **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** Arxiv
+
+     *Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, Pete Florence, Chuyuan Fu, Montse Gonzalez Arenas, Keerthana Gopalakrishnan, Kehang Han, Karol Hausman, Alexander Herzog, Jasmine Hsu, Brian Ichter, Alex Irpan, Nikhil Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Lisa Lee, Tsang-Wei Edward Lee, Sergey Levine, Yao Lu, Henryk Michalewski, Igor Mordatch, Karl Pertsch, Kanishka Rao, Krista Reymann, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Pierre Sermanet, Jaspiar Singh, Anikait Singh, Radu Soricut, Huong Tran, Vincent Vanhoucke, Quan Vuong, Ayzaan Wahid, Stefan Welker, Paul Wohlhart, Jialin Wu, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich*  [[pdf](https://robotics-transformer2.github.io/assets/rt2.pdf)], 2023.7
