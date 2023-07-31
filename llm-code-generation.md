@@ -77,7 +77,8 @@
     *Tianyi Zhang, Tao Yu, Tatsunori B. Hashimoto, Mike Lewis, Wen-tau Yih, Daniel Fried, Sida I. Wang*  [[pdf](https://arxiv.org/abs/2211.16490)], 2022.11.29
 
 1. **Natural Language to Code Generation in Interactive Data Science Notebooks.** ACL 2023
-    *Pengcheng Yin, Wen-Ding Li, Kefan Xiao, Abhishek Rao, Yeming Wen, Kensen Shi, Joshua Howland, Paige Bailey, Michele Catasta, Henryk Michalewski, Alex Polozov, Charles Sutton* [[pdf](https://arxiv.org/abs/2212.09248)], 2022.12.19
+
+   *Pengcheng Yin, Wen-Ding Li, Kefan Xiao, Abhishek Rao, Yeming Wen, Kensen Shi, Joshua Howland, Paige Bailey, Michele Catasta, Henryk Michalewski, Alex Polozov, Charles Sutton* [[pdf](https://arxiv.org/abs/2212.09248)], 2022.12.19
    
 1.  **Python Code Generation by Asking Clarification Questions.** ACL 2023
 
