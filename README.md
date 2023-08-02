@@ -369,3 +369,7 @@
 90. **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition** Arxiv
 
      *Huy Ha, Pete Florence, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.14535)], 2023.7
+
+91. **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Arxiv
+
+     *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun*  [[pdf](https://arxiv.org/abs/2307.16789)], 2023.7
