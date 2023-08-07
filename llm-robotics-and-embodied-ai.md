@@ -47,104 +47,108 @@
 
 11. **Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling** ICML 2023
 
-     *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*  [[pdf](https://arxiv.org/abs/2301.12050)], 2023.1
+      *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*  [[pdf](https://arxiv.org/abs/2301.12050)], 2023.1
 
 12. **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control** Arxiv
 
-     *Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Florence, Igor Mordatch, Sergey Levine, Karol Hausman, Brian Ichter*  [[pdf](https://arxiv.org/abs/2303.00855)], 2023.3
+      *Wenlong Huang, Fei Xia, Dhruv Shah, Danny Driess, Andy Zeng, Yao Lu, Pete Florence, Igor Mordatch, Sergey Levine, Karol Hausman, Brian Ichter*  [[pdf](https://arxiv.org/abs/2303.00855)], 2023.3
 
 13. **PaLM-E: An Embodied Multimodal Language Model** ICML 2023
 
-     *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence*  [[pdf](https://arxiv.org/abs/2303.03378)], 2023.3
+      *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence*  [[pdf](https://arxiv.org/abs/2303.03378)], 2023.3
 
 14. **Text2Motion: From Natural Language Instructions to Feasible Plans** ICRA 2023 PT4R Workshop
 
-     *Kevin Lin, Christopher Agia, Toki Migimatsu, Marco Pavone, Jeannette Bohg*  [[pdf](https://arxiv.org/abs/2303.12153)], 2023.3
+      *Kevin Lin, Christopher Agia, Toki Migimatsu, Marco Pavone, Jeannette Bohg*  [[pdf](https://arxiv.org/abs/2303.12153)], 2023.3
 
 15. **Programmatically Grounded, Compositionally Generalizable Robotic Manipulation** ICLR 2023
 
-     *Renhao Wang, Jiayuan Mao, Joy Hsu, Hang Zhao, Jiajun Wu, Yang Gao*  [[pdf](https://arxiv.org/abs/2304.13826)], 2023.4
+      *Renhao Wang, Jiayuan Mao, Joy Hsu, Hang Zhao, Jiajun Wu, Yang Gao*  [[pdf](https://arxiv.org/abs/2304.13826)], 2023.4
 
 16. **TidyBot: Personalized Robot Assistance with Large Language Models** IROS 2023
 
-     *Jimmy Wu, Rika Antonova, Adam Kan, Marion Lepert, Andy Zeng, Shuran Song, Jeannette Bohg, Szymon Rusinkiewicz, Thomas Funkhouser*  [[pdf](https://arxiv.org/abs/2305.05658)], 2023.5
+      *Jimmy Wu, Rika Antonova, Adam Kan, Marion Lepert, Andy Zeng, Shuran Song, Jeannette Bohg, Szymon Rusinkiewicz, Thomas Funkhouser*  [[pdf](https://arxiv.org/abs/2305.05658)], 2023.5
 
 17. **EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought** Arxiv
 
-     *Yao Mu, Qinglong Zhang, Mengkang Hu, Wenhai Wang, Mingyu Ding, Jun Jin, Bin Wang, Jifeng Dai, Yu Qiao, Ping Luo*  [[pdf](https://arxiv.org/abs/2305.15021)], 2023.5
+      *Yao Mu, Qinglong Zhang, Mengkang Hu, Wenhai Wang, Mingyu Ding, Jun Jin, Bin Wang, Jifeng Dai, Yu Qiao, Ping Luo*  [[pdf](https://arxiv.org/abs/2305.15021)], 2023.5
 
 18. **SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning** Arxiv
 
-     *Yue Wu, Shrimai Prabhumoye, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li*  [[pdf](https://arxiv.org/abs/2305.15486)], 2023.5
+      *Yue Wu, Shrimai Prabhumoye, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li*  [[pdf](https://arxiv.org/abs/2305.15486)], 2023.5
 
 19. **Voyager: An Open-Ended Embodied Agent with Large Language Models** Arxiv
 
-     *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2305.16291)], 2023.5
+      *Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2305.16291)], 2023.5
 
 20. **Mindstorms in Natural Language-Based Societies of Mind** Arxiv
 
-     *Mingchen Zhuge, Haozhe Liu, Francesco Faccio, Dylan R. Ashley, Róbert Csordás, Anand Gopalakrishnan, Abdullah Hamdi, Hasan Abed Al Kader Hammoud, Vincent Herrmann, Kazuki Irie, Louis Kirsch, Bing Li, Guohao Li, Shuming Liu, Jinjie Mai, Piotr Piękos, Aditya Ramesh, Imanol Schlag, Weimin Shi, Aleksandar Stanić, Wenyi Wang, Yuhui Wang, Mengmeng Xu, Deng-Ping Fan, Bernard Ghanem, Jürgen Schmidhuber*  [[pdf](https://arxiv.org/abs/2305.17066)], 2023.5
+      *Mingchen Zhuge, Haozhe Liu, Francesco Faccio, Dylan R. Ashley, Róbert Csordás, Anand Gopalakrishnan, Abdullah Hamdi, Hasan Abed Al Kader Hammoud, Vincent Herrmann, Kazuki Irie, Louis Kirsch, Bing Li, Guohao Li, Shuming Liu, Jinjie Mai, Piotr Piękos, Aditya Ramesh, Imanol Schlag, Weimin Shi, Aleksandar Stanić, Wenyi Wang, Yuhui Wang, Mengmeng Xu, Deng-Ping Fan, Bernard Ghanem, Jürgen Schmidhuber*  [[pdf](https://arxiv.org/abs/2305.17066)], 2023.5
 
 21. **Embodied Executable Policy Learning with Language-based Scene Summarization** Arxiv
 
-     *Jielin Qiu, Mengdi Xu, William Han, Seungwhan Moon, Ding Zhao*  [[pdf](https://arxiv.org/abs/2306.05696)], 2023.6
+      *Jielin Qiu, Mengdi Xu, William Han, Seungwhan Moon, Ding Zhao*  [[pdf](https://arxiv.org/abs/2306.05696)], 2023.6
 
 22. **Generating Language Corrections for Teaching Physical Control Tasks** ICML 2023
 
-     *Megha Srivastava, Noah Goodman, Dorsa Sadigh*  [[pdf](https://arxiv.org/abs/2306.07012)], 2023.6
+      *Megha Srivastava, Noah Goodman, Dorsa Sadigh*  [[pdf](https://arxiv.org/abs/2306.07012)], 2023.6
 
 23. **SayTap: Language to Quadrupedal Locomotion** Arxiv
 
-     *Yujin Tang, Wenhao Yu, Jie Tan, Heiga Zen, Aleksandra Faust, Tatsuya Harada*  [[pdf](https://arxiv.org/abs/2306.07580)], 2023.6
+      *Yujin Tang, Wenhao Yu, Jie Tan, Heiga Zen, Aleksandra Faust, Tatsuya Harada*  [[pdf](https://arxiv.org/abs/2306.07580)], 2023.6
 
 24. **Language to Rewards for Robotic Skill Synthesis** Arxiv
 
-     *Wenhao Yu, Nimrod Gileadi, Chuyuan Fu, Sean Kirmani, Kuang-Huei Lee, Montse Gonzalez Arenas, Hao-Tien Lewis Chiang, Tom Erez, Leonard Hasenclever, Jan Humplik, Brian Ichter, Ted Xiao, Peng Xu, Andy Zeng, Tingnan Zhang, Nicolas Heess, Dorsa Sadigh, Jie Tan, Yuval Tassa, Fei Xia*  [[pdf](https://arxiv.org/abs/2306.08647)], 2023.6
+      *Wenhao Yu, Nimrod Gileadi, Chuyuan Fu, Sean Kirmani, Kuang-Huei Lee, Montse Gonzalez Arenas, Hao-Tien Lewis Chiang, Tom Erez, Leonard Hasenclever, Jan Humplik, Brian Ichter, Ted Xiao, Peng Xu, Andy Zeng, Tingnan Zhang, Nicolas Heess, Dorsa Sadigh, Jie Tan, Yuval Tassa, Fei Xia*  [[pdf](https://arxiv.org/abs/2306.08647)], 2023.6
 
 25. **REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction** Arxiv
 
-     *Zeyi Liu, Arpit Bahety, Shuran Song*  [[pdf](https://arxiv.org/abs/2306.15724)], 2023.6
+      *Zeyi Liu, Arpit Bahety, Shuran Song*  [[pdf](https://arxiv.org/abs/2306.15724)], 2023.6
 
 26. **ChatGPT for Robotics: Design Principles and Model Abilities** Arxiv
 
-     *Sai Vemprala, Rogerio Bonatti, Arthur Bucker, Ashish Kapoor*  [[pdf](https://arxiv.org/abs//2306.17582)], 2023.6
+      *Sai Vemprala, Rogerio Bonatti, Arthur Bucker, Ashish Kapoor*  [[pdf](https://arxiv.org/abs//2306.17582)], 2023.6
 
 27. **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners** Arxiv
 
-     *Allen Z. Ren, Anushri Dixit, Alexandra Bodrova, Sumeet Singh, Stephen Tu, Noah Brown, Peng Xu, Leila Takayama, Fei Xia, Jake Varley, Zhenjia Xu, Dorsa Sadigh, Andy Zeng, Anirudha Majumdar*  [[pdf](https://arxiv.org/abs/2307.01928)], 2023.7
+      *Allen Z. Ren, Anushri Dixit, Alexandra Bodrova, Sumeet Singh, Stephen Tu, Noah Brown, Peng Xu, Leila Takayama, Fei Xia, Jake Varley, Zhenjia Xu, Dorsa Sadigh, Andy Zeng, Anirudha Majumdar*  [[pdf](https://arxiv.org/abs/2307.01928)], 2023.7
 
 28. **Building Cooperative Embodied Agents Modularly with Large Language Models** Arxiv
 
-     *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan*  [[pdf](https://arxiv.org/abs/2307.02485)], 2023.7
+      *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan*  [[pdf](https://arxiv.org/abs/2307.02485)], 2023.7
 
 29. **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** Arxiv
 
-     *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei*  [[pdf](https://arxiv.org/abs/2307.05973)], 2023.7
+      *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei*  [[pdf](https://arxiv.org/abs/2307.05973)], 2023.7
 
 30. **Demonstrating Large Language Models on Robots** RSS 2023 Demo Track
 
-     *Google DeepMind*  [[pdf](https://roboticsconference.org/program/papers/024)], 2023.7
+      *Google DeepMind*  [[pdf](https://roboticsconference.org/program/papers/024)], 2023.7
 
 31. **GenSim: Generative Models for Supersizing Robotic Simulation Tasks** Github
 
-     *Lirui Wang*  [[pdf](https://github.com/liruiw/GenSim)], 2023.7
+      *Lirui Wang*  [[pdf](https://github.com/liruiw/GenSim)], 2023.7
 
 32. **Large Language Models as General Pattern Machines** Arxiv
 
-     *Suvir Mirchandani, Fei Xia, Pete Florence, Brian Ichter, Danny Driess, Montserrat Gonzalez Arenas, Kanishka Rao, Dorsa Sadigh, Andy Zeng*  [[pdf](https://arxiv.org/abs/2307.04721)], 2023.7
+      *Suvir Mirchandani, Fei Xia, Pete Florence, Brian Ichter, Danny Driess, Montserrat Gonzalez Arenas, Kanishka Rao, Dorsa Sadigh, Andy Zeng*  [[pdf](https://arxiv.org/abs/2307.04721)], 2023.7
 
 33. **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning** Arxiv
 
-     *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf*  [[pdf](https://arxiv.org/abs/2307.06135)], 2023.7
+      *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf*  [[pdf](https://arxiv.org/abs/2307.06135)], 2023.7
 
 34. **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models** Arxiv
 
-     *Zhao Mandi, Shreeya Jain, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.04738)], 2023.7
+      *Zhao Mandi, Shreeya Jain, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.04738)], 2023.7
 
 35. **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** Arxiv
 
-     *Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, Pete Florence, Chuyuan Fu, Montse Gonzalez Arenas, Keerthana Gopalakrishnan, Kehang Han, Karol Hausman, Alexander Herzog, Jasmine Hsu, Brian Ichter, Alex Irpan, Nikhil Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Lisa Lee, Tsang-Wei Edward Lee, Sergey Levine, Yao Lu, Henryk Michalewski, Igor Mordatch, Karl Pertsch, Kanishka Rao, Krista Reymann, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Pierre Sermanet, Jaspiar Singh, Anikait Singh, Radu Soricut, Huong Tran, Vincent Vanhoucke, Quan Vuong, Ayzaan Wahid, Stefan Welker, Paul Wohlhart, Jialin Wu, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich*  [[pdf](https://robotics-transformer2.github.io/assets/rt2.pdf)], 2023.7
+      *Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, Pete Florence, Chuyuan Fu, Montse Gonzalez Arenas, Keerthana Gopalakrishnan, Kehang Han, Karol Hausman, Alexander Herzog, Jasmine Hsu, Brian Ichter, Alex Irpan, Nikhil Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Lisa Lee, Tsang-Wei Edward Lee, Sergey Levine, Yao Lu, Henryk Michalewski, Igor Mordatch, Karl Pertsch, Kanishka Rao, Krista Reymann, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Pierre Sermanet, Jaspiar Singh, Anikait Singh, Radu Soricut, Huong Tran, Vincent Vanhoucke, Quan Vuong, Ayzaan Wahid, Stefan Welker, Paul Wohlhart, Jialin Wu, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich*  [[pdf](https://robotics-transformer2.github.io/assets/rt2.pdf)], 2023.7
 
 36. **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition** Arxiv
 
-     *Huy Ha, Pete Florence, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.14535)], 2023.7
+      *Huy Ha, Pete Florence, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.14535)], 2023.7
+
+37. **Learning to Model the World with Language** Arxiv
+
+      *Jessy Lin, Yuqing Du, Olivia Watkins, Danijar Hafner, Pieter Abbeel, Dan Klein, Anca Dragan*  [[pdf](https://arxiv.org/abs/2308.01399)], 2023.8

@@ -1,5 +1,5 @@
 # LLM Tool Use Papers
-![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-90-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/xlang-ai/llm-ttol-use?color=green) ![](https://img.shields.io/badge/PaperNumber-92-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 ## Introduction
@@ -373,3 +373,7 @@
 91. **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Arxiv
 
      *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun*  [[pdf](https://arxiv.org/abs/2307.16789)], 2023.7
+
+92. **Learning to Model the World with Language** Arxiv
+
+     *Jessy Lin, Yuqing Du, Olivia Watkins, Danijar Hafner, Pieter Abbeel, Dan Klein, Anca Dragan*  [[pdf](https://arxiv.org/abs/2308.01399)], 2023.8
