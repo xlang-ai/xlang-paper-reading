@@ -1,7 +1,7 @@
 # XLang Paper Reading
 ![](https://img.shields.io/github/last-commit/xlang-ai/xlang-paper-reading?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/XLangAILabs)](https://twitter.com/XLangAILabs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/XLangAI)](https://twitter.com/XLangAI)
 [![Join Slack](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://join.slack.com/t/xlanggroup/shared_invite/zt-20zb8hxas-eKSGJrbzHiPmrADCDX3_rQ)
 [![](https://dcbadge.vercel.app/api/server/sNURNAQs?compact=true&style=flat)](https://discord.gg/sNURNAQs)
 
