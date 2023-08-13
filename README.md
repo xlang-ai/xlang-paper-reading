@@ -18,7 +18,7 @@ Here we make a paper list for you to keep track of the research in this track. S
 
 ### Paper Group
 - [LLM code generation](https://github.com/xlang-ai/xlang-paper-reading/blob/main/llm-code-generation.md)
-- [LLM tool use](https://github.com/xlang-ai/xlang-paper-reading/blob/main/llm-tool-use.md)
+- [LLM agents with tool use](https://github.com/xlang-ai/xlang-paper-reading/blob/main/llm-tool-use.md)
 - [LLM web grounding](https://github.com/xlang-ai/xlang-paper-reading/blob/main/llm-web-grounding.md)
 - [LLM robotics and embodied AI](https://github.com/xlang-ai/xlang-paper-reading/blob/main/llm-robotics-and-embodied-ai.md)
 
