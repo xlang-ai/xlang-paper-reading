@@ -155,3 +155,11 @@
 38. **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** Arxiv
 
      *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun*  [[pdf](https://arxiv.org/abs/2307.16789)], 2023.7
+
+39. **LLM Powered Autonomous Agents** Blog
+
+    *Lilian Weng*, [[blog](https://lilianweng.github.io/posts/2023-06-23-agent/)] 2023.7
+    
+41. **Language Agents in the Digital World: Opportunities and Risks** Blog
+
+    *Shunyu Yao and Karthik Narasimhan*, [[blog](https://princeton-nlp.github.io/language-agent-impact/)] 2023.7
