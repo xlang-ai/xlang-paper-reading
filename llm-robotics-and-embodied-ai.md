@@ -120,46 +120,50 @@
 
     *Swarnadeep Saha, Peter Hase, Mohit Bansal*  [[pdf](https://arxiv.org/abs/2306.09299)], 2023.6
 
-30. **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners** Arxiv
+30. **RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation.** Arxiv
+
+    *Konstantinos Bousmalis, Giulia Vezzani, Dushyant Rao, Coline Devin, Alex X. Lee, Maria Bauza, Todor Davchev, Yuxiang Zhou, Agrim Gupta, Akhil Raju, Antoine Laurens, Claudio Fantacci, Valentin Dalibard, Martina Zambelli, Murilo Martins, Rugile Pevceviciute, Michiel Blokzijl, Misha Denil, Nathan Batchelor, Thomas Lampe, Emilio Parisotto, Konrad Żołna, Scott Reed, Sergio Gómez Colmenarejo, Jon Scholz, Abbas Abdolmaleki, Oliver Groth, Jean-Baptiste Regli, Oleg Sushkov, Tom Rothörl, José Enrique Chen, Yusuf Aytar, Dave Barker, Joy Ortiz, Martin Riedmiller, Jost Tobias Springenberg, Raia Hadsell, Francesco Nori, Nicolas Heess*  [[pdf](https://arxiv.org/abs/2306.11706)], 2023.6
+
+31. **Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners** Arxiv
 
       *Allen Z. Ren, Anushri Dixit, Alexandra Bodrova, Sumeet Singh, Stephen Tu, Noah Brown, Peng Xu, Leila Takayama, Fei Xia, Jake Varley, Zhenjia Xu, Dorsa Sadigh, Andy Zeng, Anirudha Majumdar*  [[pdf](https://arxiv.org/abs/2307.01928)], 2023.7
 
-31. **Building Cooperative Embodied Agents Modularly with Large Language Models** Arxiv
+32. **Building Cooperative Embodied Agents Modularly with Large Language Models** Arxiv
 
       *Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan*  [[pdf](https://arxiv.org/abs/2307.02485)], 2023.7
 
-32. **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** Arxiv
+33. **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** Arxiv
 
       *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei*  [[pdf](https://arxiv.org/abs/2307.05973)], 2023.7
 
-33. **Demonstrating Large Language Models on Robots** RSS 2023 Demo Track
+34. **Demonstrating Large Language Models on Robots** RSS 2023 Demo Track
 
       *Google DeepMind*  [[pdf](https://roboticsconference.org/program/papers/024)], 2023.7
 
-34. **GenSim: Generative Models for Supersizing Robotic Simulation Tasks** Github
+35. **GenSim: Generative Models for Supersizing Robotic Simulation Tasks** Github
 
       *Lirui Wang*  [[pdf](https://github.com/liruiw/GenSim)], 2023.7
 
-35. **Large Language Models as General Pattern Machines** Arxiv
+36. **Large Language Models as General Pattern Machines** Arxiv
 
       *Suvir Mirchandani, Fei Xia, Pete Florence, Brian Ichter, Danny Driess, Montserrat Gonzalez Arenas, Kanishka Rao, Dorsa Sadigh, Andy Zeng*  [[pdf](https://arxiv.org/abs/2307.04721)], 2023.7
 
-36. **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning** Arxiv
+37. **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning** Arxiv
 
       *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf*  [[pdf](https://arxiv.org/abs/2307.06135)], 2023.7
 
-37. **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models** Arxiv
+38. **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models** Arxiv
 
       *Zhao Mandi, Shreeya Jain, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.04738)], 2023.7
 
-38. **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** Arxiv
+39. **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** Arxiv
 
       *Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, Pete Florence, Chuyuan Fu, Montse Gonzalez Arenas, Keerthana Gopalakrishnan, Kehang Han, Karol Hausman, Alexander Herzog, Jasmine Hsu, Brian Ichter, Alex Irpan, Nikhil Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Lisa Lee, Tsang-Wei Edward Lee, Sergey Levine, Yao Lu, Henryk Michalewski, Igor Mordatch, Karl Pertsch, Kanishka Rao, Krista Reymann, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Pierre Sermanet, Jaspiar Singh, Anikait Singh, Radu Soricut, Huong Tran, Vincent Vanhoucke, Quan Vuong, Ayzaan Wahid, Stefan Welker, Paul Wohlhart, Jialin Wu, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich*  [[pdf](https://robotics-transformer2.github.io/assets/rt2.pdf)], 2023.7
 
-39. **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition** Arxiv
+40. **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition** Arxiv
 
       *Huy Ha, Pete Florence, Shuran Song*  [[pdf](https://arxiv.org/abs/2307.14535)], 2023.7
 
-40. **Learning to Model the World with Language** Arxiv
+41. **Learning to Model the World with Language** Arxiv
 
       *Jessy Lin, Yuqing Du, Olivia Watkins, Danijar Hafner, Pieter Abbeel, Dan Klein, Anca Dragan*  [[pdf](https://arxiv.org/abs/2308.01399)], 2023.8
