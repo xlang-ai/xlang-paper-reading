@@ -160,6 +160,10 @@
 
     *Lilian Weng*, [[blog](https://lilianweng.github.io/posts/2023-06-23-agent/)] 2023.7
     
-41. **Language Agents in the Digital World: Opportunities and Risks** Blog
+40. **Language Agents in the Digital World: Opportunities and Risks** Blog
 
     *Shunyu Yao and Karthik Narasimhan*, [[blog](https://princeton-nlp.github.io/language-agent-impact/)] 2023.7
+
+41. **ExpeL: LLM Agents Are Experiential Learners** Arxiv
+
+    *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang*, [[pdf](https://arxiv.org/abs/2308.10144)] 2023.7
