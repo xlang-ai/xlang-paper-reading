@@ -8,23 +8,23 @@
 
     *Disha Shrivastava, Hugo Larochelle, Daniel Tarlow*  [[pdf](https://arxiv.org/abs/2003.11768v1)], 2020.5.26
 
-2. **Competition-Level Code Generation with AlphaCode.** Science 2022
+1. **Competition-Level Code Generation with AlphaCode.** Science 2022
    
     *Yujia Li, David Choi, Junyoung Chung, Nate Kushman, Julian Schrittwieser, Rémi Leblond, Tom Eccles, James Keeling, Felix Gimeno, Agustin Dal Lago, Thomas Hubert, Peter Choy, Cyprien de Masson d'Autume, Igor Babuschkin, Xinyun Chen, Po-Sen Huang, Johannes Welbl, Sven Gowal, Alexey Cherepanov, James Molloy, Daniel J. Mankowitz, Esme Sutherland Robson, Pushmeet Kohli, Nando de Freitas, Koray Kavukcuoglu, Oriol Vinyals*  [[pdf](https://arxiv.org/abs/2203.07814)], 2022.2.8
 
-3. **An Exploratory Study on Code Attention in BERT.** ICPC 2022
+1. **An Exploratory Study on Code Attention in BERT.** ICPC 2022
 
    *Rishab Sharma, Fuxiang Chen, Fatemeh Fard, David Lo*  [[pdf](https://arxiv.org/abs/2204.10200)], 2022.4.5
 
-4. **CoCoSoDa: Effective Contrastive Learning for Code Search.** ICSE 2023
+1. **CoCoSoDa: Effective Contrastive Learning for Code Search.** ICSE 2023
 
    *Ensheng Shi, Yanlin Wang, Wenchao Gu, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun* [[pdf](https://arxiv.org/abs/2204.03293)], 2022.4.7
 
-5. **Fault-Aware Neural Code Rankers.** NeurIPS 2022
+1. **Fault-Aware Neural Code Rankers.** NeurIPS 2022
 
    *Jeevana Priya Inala, Chenglong Wang, Mei Yang, Andres Codas, Mark Encarnación, Shuvendu K Lahiri, Madanlal Musuvathi, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2206.03865)], 2022.6.4
 
-6. **Making Large Language Models Better Reasoners with Step-Aware Verifier.** ACL 2023
+1. **Making Large Language Models Better Reasoners with Step-Aware Verifier.** ACL 2023
 
    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2206.02336)], 2022.6.6
 
@@ -168,51 +168,55 @@
    
      *Abhinav Jain, Chima Adiole, Swarat Chaudhuri, Thomas Reps, Chris Jermaine*  [[pdf](https://arxiv.org/abs/2305.18341)], 2023.5.25
 
-42. **Grammar Prompting for Domain-Specific Language Generation with Large Language Models.** Arxiv
+46. **SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL.** Arxiv
+
+    *Ruoxi Sun, Sercan O. Arik, Hootan Nakhost, Hanjun Dai, Rajarishi Sinha, Pengcheng Yin, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2306.00739)], 2023.5.26
+
+43. **Grammar Prompting for Domain-Specific Language Generation with Large Language Models.** Arxiv
 
      *Bailin Wang, Zi Wang, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim*  [[pdf](https://arxiv.org/abs/2305.19234)], 2023.5.30
+
+44. **SELFEVOLVE: A Code Evolution Framework via Large Language Models.** Arxiv
+
+    *Shuyang Jiang, Yuhao Wang, Yu Wang* [[pdf](https://arxiv.org/abs/2306.02907)], 2023.6.5
    
-43. **WizardCoder: Empowering Code Large Language Models with Evol-Instruct.** Arxiv
+45. **WizardCoder: Empowering Code Large Language Models with Evol-Instruct.** Arxiv
 
      *Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang*  [[pdf](https://arxiv.org/abs/2306.08568)], 2023.6.14
 
-44. **SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL.** Arxiv
-
-    *Ruoxi Sun, Sercan O. Arik, Hootan Nakhost, Hanjun Dai, Rajarishi Sinha, Pengcheng Yin, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2306.00739)], 2023.6
-
-45. **Demystifying GPT Self-Repair for Code Generation.** Arxiv
+47. **Demystifying GPT Self-Repair for Code Generation.** Arxiv
 
      *Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama*  [[pdf](https://arxiv.org/abs/2306.09896)], 2023.6.16
 
-46. **RepoFusion: Training Code Models to Understand Your Repository.** Arxiv
+48. **RepoFusion: Training Code Models to Understand Your Repository.** Arxiv
 
      *Disha Shrivastava, Denis Kocetkov, Harm de Vries, Dzmitry Bahdanau, Torsten Scholak*  [[pdf](https://arxiv.org/abs/2306.10998)], 2023.6.19
 
-47. **Guiding Language Models of Code with Global Context using Monitors.** Arxiv
+49. **Guiding Language Models of Code with Global Context using Monitors.** Arxiv
 
      *Lakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani*  [[pdf](https://arxiv.org/abs//2306.10763)], 2023.6.19
 
-48. **Textbooks Are All You Need.** Arxiv
+50. **Textbooks Are All You Need.** Arxiv
 
      *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi, Adil Salim, Shital Shah, Harkirat Singh Behl, Xin Wang, Sébastien Bubeck, Ronen Eldan, Adam Tauman Kalai, Yin Tat Lee, Yuanzhi Li*  [[pdf](https://arxiv.org/abs/2306.11644)], 2023.6.20
 
-49. **Language models are weak learners.** Arxiv
+51. **Language models are weak learners.** Arxiv
 
      *Hariharan Manikandan, Yiding Jiang, J Zico Kolter*  [[pdf](https://arxiv.org/abs/2306.14101)], 2023.6.25
 
-50. **LongCoder: A Long-Range Pre-trained Language Model for Code Completion.** Arxiv
+52. **LongCoder: A Long-Range Pre-trained Language Model for Code Completion.** Arxiv
 
      *Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley*  [[pdf](https://arxiv.org/abs/2306.14893)], 2023.6.26
 
-51. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback.** Arxiv
+53. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback.** Arxiv
 
      *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao*  [[pdf](https://arxiv.org/abs/2306.14898)], 2023.6.26
 
-52. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
+54. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
 
      *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7.24
 
-53. **Predicting Code Coverage without Execution.** Arxiv
+55. **Predicting Code Coverage without Execution.** Arxiv
 
     *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
 
