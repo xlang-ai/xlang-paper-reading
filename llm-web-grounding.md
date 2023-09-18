@@ -27,3 +27,7 @@
 6. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
 
     *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
+
+7. **LASER: LLM Agent with State-Space Exploration for Web Navigation** Arxiv
+
+    *Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu*  [[pdf](https://arxiv.org/abs/2309.08172)], 2023.9
