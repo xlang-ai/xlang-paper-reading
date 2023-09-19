@@ -166,4 +166,12 @@
 
 41. **ExpeL: LLM Agents Are Experiential Learners** Arxiv
 
-    *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang*, [[pdf](https://arxiv.org/abs/2308.10144)] 2023.7
+    *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang*, [[pdf](https://arxiv.org/abs/2308.10144)] 2023.8
+
+42. **Agents: An Open-source Framework for Autonomous Language Agents** Arxiv
+
+    *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, Jialong Wu, Tiannan Wang, Shi Qiu, Jintian Zhang, Jing Chen, Ruipu Wu, Shuai Wang, Shiding Zhu, Jiyu Chen, Wentao Zhang, Ningyu Zhang, Huajun Chen, Peng Cui, Mrinmaya Sachan*, [[pdf](https://arxiv.org/abs/2309.07870)] 2023.9
+
+43. **MindAgent: Emergent Gaming Interaction** Arxiv
+
+    *Ran Gong, Qiuyuan Huang, Xiaojian Ma, Hoi Vo, Zane Durante, Yusuke Noda, Zilong Zheng, Song-Chun Zhu, Demetri Terzopoulos, Li Fei-Fei, Jianfeng Gao*, [[pdf](https://arxiv.org/abs/2309.09971)] 2023.9
