@@ -175,3 +175,7 @@
 43. **MindAgent: Emergent Gaming Interaction** Arxiv
 
     *Ran Gong, Qiuyuan Huang, Xiaojian Ma, Hoi Vo, Zane Durante, Yusuke Noda, Zilong Zheng, Song-Chun Zhu, Demetri Terzopoulos, Li Fei-Fei, Jianfeng Gao*, [[pdf](https://arxiv.org/abs/2309.09971)] 2023.9
+
+44. **Multimodal Foundation Models: From Specialists to General-Purpose Assistants** Arxiv
+
+    *Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao*, [[pdf](https://arxiv.org/abs/2309.10020)] 2023.9
