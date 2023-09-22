@@ -167,3 +167,7 @@
 41. **Learning to Model the World with Language** Arxiv
 
       *Jessy Lin, Yuqing Du, Olivia Watkins, Danijar Hafner, Pieter Abbeel, Dan Klein, Anca Dragan*  [[pdf](https://arxiv.org/abs/2308.01399)], 2023.8
+
+42. **Physically Grounded Vision-Language Models for Robotic Manipulation** Arxiv
+
+      *Jensen Gao, Bidipta Sarkar, Fei Xia, Ted Xiao, Jiajun Wu, Brian Ichter, Anirudha Majumdar, Dorsa Sadigh*  [[pdf](https://arxiv.org/abs/2309.02561)], 2023.9
