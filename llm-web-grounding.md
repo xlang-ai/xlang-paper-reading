@@ -60,14 +60,18 @@
 
     *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
 
-15. **Android in the Wild: A Large-Scale Dataset for Android Device Control** Arxiv
+15. **Empowering LLM to use Smartphone for Intelligent Task Automation** Arxiv
+
+    *Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu*  [[pdf](https://arxiv.org/abs/2308.15272)], 2023.8
+
+16. **Android in the Wild: A Large-Scale Dataset for Android Device Control** Arxiv
 
     *Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2307.10088)], 2023.7
 
-16. **LASER: LLM Agent with State-Space Exploration for Web Navigation** Arxiv
+17. **LASER: LLM Agent with State-Space Exploration for Web Navigation** Arxiv
 
     *Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu*  [[pdf](https://arxiv.org/abs/2309.08172)], 2023.9
 
-17. **You Only Look at Screens: Multimodal Chain-of-Action Agents** Arxiv
+18. **You Only Look at Screens: Multimodal Chain-of-Action Agents** Arxiv
 
     *Zhuosheng Zhang, Aston Zhang*  [[pdf](https://arxiv.org/abs/2309.11436)], 2023.9
