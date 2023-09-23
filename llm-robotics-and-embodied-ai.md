@@ -171,3 +171,7 @@
 42. **Physically Grounded Vision-Language Models for Robotic Manipulation** Arxiv
 
       *Jensen Gao, Bidipta Sarkar, Fei Xia, Ted Xiao, Jiajun Wu, Brian Ichter, Anirudha Majumdar, Dorsa Sadigh*  [[pdf](https://arxiv.org/abs/2309.02561)], 2023.9
+
+43. **Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning** Arxiv
+
+      *Tianbao Xie, Siheng Zhao, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, Tao Yu*  [[pdf](https://arxiv.org/abs/2309.11489)], 2023.9
