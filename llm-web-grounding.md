@@ -35,3 +35,7 @@
 8. **LASER: LLM Agent with State-Space Exploration for Web Navigation** Arxiv
 
     *Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu*  [[pdf](https://arxiv.org/abs/2309.08172)], 2023.9
+
+9. **You Only Look at Screens: Multimodal Chain-of-Action Agents** Arxiv
+
+    *Zhuosheng Zhang, Aston Zhang*  [[pdf](https://arxiv.org/abs/2309.11436)], 2023.9
