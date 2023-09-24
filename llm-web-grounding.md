@@ -30,7 +30,7 @@
 
 7. **Enabling Conversational Interaction with Mobile UI using Large Language Models.** CHI 2023
 
-    *Bryan Wang, Gang Li, Yang Li*  [[pdf](https://arxiv.org/abs/2211.07615)], 2022.9
+    *Bryan Wang, Gang Li, Yang Li*  [[pdf](https://arxiv.org/abs/2209.08655)], 2022.9
 
 8.  **UGIF: UI Grounded Instruction Following.** Arxiv
 
