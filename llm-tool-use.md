@@ -179,3 +179,7 @@
 44. **Multimodal Foundation Models: From Specialists to General-Purpose Assistants** Arxiv
 
     *Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao*, [[pdf](https://arxiv.org/abs/2309.10020)] 2023.9
+
+45. **Identifying the Risks of LM Agents with an LM-Emulated Sandbox** Arxiv
+
+    *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto*, [[pdf](https://arxiv.org/abs/2309.15817)] 2023.9
