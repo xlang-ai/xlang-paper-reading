@@ -31,7 +31,7 @@
 7. **META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI.** Arxiv
 
     *Liangtai Sun, Xingyu Chen, Lu Chen, Tianle Dai, Zichen Zhu, Kai Yu*  [[pdf](https://arxiv.org/abs/2205.11029)], 2022.5
- 
+
 8. **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents.** Arxiv
 
     *Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan*  [[pdf](https://arxiv.org/abs/2207.01206)], 2022.7
@@ -40,46 +40,50 @@
 
     *Bryan Wang, Gang Li, Yang Li*  [[pdf](https://arxiv.org/abs/2209.08655)], 2022.9
 
-10.  **UGIF: UI Grounded Instruction Following.** Arxiv
+10. **UGIF: UI Grounded Instruction Following.** Arxiv
 
     *Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan*  [[pdf](https://arxiv.org/abs/2211.07615)], 2022.11
 
-11.  **Multimodal Web Navigation with Instruction-Finetuned Foundation Models.** ICLR 2023 Workshop ME-FoMo
+11. **Multimodal Web Navigation with Instruction-Finetuned Foundation Models.** ICLR 2023 Workshop ME-FoMo
 
      *Hiroki Furuta, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, Izzeddin Gur*  [[pdf](https://arxiv.org/abs/2305.11854)], 2023.5
 
 12. **Hierarchical Prompting Assists Large Language Model on Web Navigation.** ACL 2023 NLRSE workshop
 
-    *Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou*  [[pdf](https://arxiv.org/abs/2305.14257)], 2023.5
+     *Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou*  [[pdf](https://arxiv.org/abs/2305.14257)], 2023.5
 
 13. **From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces.** Arxiv
 
-    *Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova*  [[pdf](https://arxiv.org/abs/2306.00245)], 2023.6
+     *Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova*  [[pdf](https://arxiv.org/abs/2306.00245)], 2023.6
 
 14. **Mind2Web: Towards a Generalist Agent for the Web.** Arxiv
 
-    *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*  [[pdf](https://arxiv.org/abs/2306.06070)], 2023.6
+     *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su*  [[pdf](https://arxiv.org/abs/2306.06070)], 2023.6
 
 15. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
 
-    *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7
+     *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7
 
 16. **WebArena: A Realistic Web Environment for Building Autonomous Agents** Arxiv
 
-    *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
+     *Shuyan Zhou, Frank F. Xu, Hao Zh+, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig*  [[pdf](https://webarena.dev/static/paper.pdf)], 2023.7
 
 17. **Empowering LLM to use Smartphone for Intelligent Task Automation** Arxiv
 
-    *Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu*  [[pdf](https://arxiv.org/abs/2308.15272)], 2023.8
+     *Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu*  [[pdf](https://arxiv.org/abs/2308.15272)], 2023.8
 
 18. **Android in the Wild: A Large-Scale Dataset for Android Device Control** Arxiv
 
-    *Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2307.10088)], 2023.7
+     *Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2307.10088)], 2023.7
 
 19. **LASER: LLM Agent with State-Space Exploration for Web Navigation** Arxiv
 
-    *Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu*  [[pdf](https://arxiv.org/abs/2309.08172)], 2023.9
+     *Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu*  [[pdf](https://arxiv.org/abs/2309.08172)], 2023.9
 
 20. **You Only Look at Screens: Multimodal Chain-of-Action Agents** Arxiv
 
-    *Zhuosheng Zhang, Aston Zhang*  [[pdf](https://arxiv.org/abs/2309.11436)], 2023.9
+     *Zhuosheng Zhang, Aston Zhang*  [[pdf](https://arxiv.org/abs/2309.11436)], 2023.9
+
+21. **HeaP: Hierarchical Policies for Web Actions using LLMs** Arxiv
+
+     *Paloma Sodhi, S.R.K. Branavan, Ryan McDonald* [[pdf](https://arxiv.org/abs/2310.03720)], 2023.10
