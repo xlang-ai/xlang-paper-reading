@@ -183,3 +183,6 @@
 45. **Identifying the Risks of LM Agents with an LM-Emulated Sandbox** Arxiv
 
     *Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto*, [[pdf](https://arxiv.org/abs/2309.15817)] 2023.9
+
+46. **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** Arxiv
+    *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang*, [[pdf](https://arxiv.org/abs/2309.15817)] 2023.9
