@@ -1,12 +1,12 @@
 # XLang Paper Reading
 ![](https://img.shields.io/github/last-commit/xlang-ai/xlang-paper-reading?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/XLangAI)](https://twitter.com/XLangAI)
+[![Twitter Follow](https://img.shields.io/twitter/follow/XLangNLP)](https://twitter.com/XLangNLP)
 [![Join Slack](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://join.slack.com/t/xlanggroup/shared_invite/zt-20zb8hxas-eKSGJrbzHiPmrADCDX3_rQ)
 [![](https://dcbadge.vercel.app/api/server/4Gnw7eTEZR?compact=true&style=flat)](https://discord.gg/4Gnw7eTEZR)
 
 ## Introduction
-**Exe**cutable **Lang**uage **G**rounding ([XLang](https://xlang.ai)) focuses on building language model agents that transform (“grounding”) language instructions into code or actions executable in real-world environments, including databases (data agent), web applications (plugins/web agent), and the physical world (robotic agent) etc,. It lies at the heart of language model agents or natural language interfaces that can interact with and learn from these real-world environments to facilitate human interaction with data analysis, web applications, and robotic instruction through conversation. Recent advances in XLang incorporate techniques such as LLM + external tools, code generation, semantic parsing, and dialog or interactive systems.
+**Exe**cutable **Lang**uage **G**rounding ([XLANG](https://xlang.ai)) focuses on building language model agents that transform (“grounding”) language instructions into code or actions executable in real-world environments, including databases (data agent), web applications (plugins/web agent), and the physical world (robotic agent) etc,. It lies at the heart of language model agents or natural language interfaces that can interact with and learn from these real-world environments to facilitate human interaction with data analysis, web applications, and robotic instruction through conversation. Recent advances in XLang incorporate techniques such as LLM + external tools, code generation, semantic parsing, and dialog or interactive systems.
 
 <div align="center">
   <a href="https://xlang.ai">
