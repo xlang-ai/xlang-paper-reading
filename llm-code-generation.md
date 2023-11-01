@@ -216,7 +216,13 @@
 
      *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7.24
 
-55. **Predicting Code Coverage without Execution.** Arxiv
+55. **Predicting Code Coverage without Execution** Arxiv
 
     *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
+
+56. **InstructCoder: Empowering Language Models for Code Editing** Arxiv
+
+    *Qisheng Hu, Kaixin Li, Xu Zhao, Yuxi Xie, Tiedong Liu, Hui Chen, Qizhe Xie, Junxian He* [[pdf](https://arxiv.org/abs/2310.20329)], 2023.10.31
+
+    
 
