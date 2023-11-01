@@ -1,6 +1,6 @@
-1. **Outliers Dimensions that Disrupt Transformers Are Driven by Frequency**, EMNLP 2022
+1. **Outlier Dimensions Encode Task-Specific Knowledge**
 
-    *Giovanni Puccetti, Anna Rogers, Aleksandr Drozd, Felice Dell'Orletta*  [[pdf](https://arxiv.org/abs/2205.11380)], 2022.05.23
+    *William Rudman, Catherine Chen, Carsten Eickhoff*  [[pdf](https://arxiv.org/abs/2310.17715)], 2023.10.26
    
 1. **VoyageAI embedding** 
 
