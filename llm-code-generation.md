@@ -4,7 +4,11 @@
 
 ## Papers
 
-1. **On-the-Fly Adaptation of Source Code Models using Meta-Learning.** NeurIPS 2020 CAP Workshop
+1. **DreamCoder: Bootstrapping Inductive Program Synthesis with Wake-Sleep Library Learning** PLDI 2021
+
+    *Kevin Ellis, Catherine Wong, Maxwell Nye, Mathias Sablé-Meyer, Lucas Morales, Luke Hewitt, Luc Cary, Armando Solar-Lezama, oshua B. Tenenbaum*  [[pdf](https://dl.acm.org/doi/pdf/10.1145/3453483.3454080)]
+
+1. **On-the-Fly Adaptation of Source Code Models using Meta-Learning** NeurIPS 2020 CAP Workshop
 
     *Disha Shrivastava, Hugo Larochelle, Daniel Tarlow*  [[pdf](https://arxiv.org/abs/2003.11768v1)], 2020.5.26
 
@@ -28,43 +32,43 @@
 
    *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2206.02336)], 2022.6.6
 
-7. **CodeS: Towards Code Model Generalization Under Distribution Shift.** ICSE-NIER 2023
+1. **CodeS: Towards Code Model Generalization Under Distribution Shift.** ICSE-NIER 2023
 
    *Qiang Hu, Yuejun Guo, Xiaofei Xie, Maxime Cordy, Lei Ma, Mike Papadakis, Yves Le Traon*  [[pdf](https://arxiv.org/abs/2206.05480)], 2022.6.11
 
-8. **NatGen: Generative pre-training by "Naturalizing" source code.** ESEC/FSE 2022
+1. **NatGen: Generative pre-training by "Naturalizing" source code.** ESEC/FSE 2022
 
    *Saikat Chakraborty, Toufique Ahmed, Yangruibo Ding, Premkumar Devanbu, Baishakhi Ray* [[pdf](https://arxiv.org/abs/2206.07585)], 2022.6.15
 
-9. **Repository-Level Prompt Generation for Large Language Models of Code.** ICML 2023
+1. **Repository-Level Prompt Generation for Large Language Models of Code.** ICML 2023
 
     *Disha Shrivastava, Hugo Larochelle, Daniel Tarlow*  [[pdf](https://arxiv.org/abs/2206.12839)], 2022.6.26
 
-10. **DocPrompting: Generating Code by Retrieving the Docs.** ICLR 2023
+1. **DocPrompting: Generating Code by Retrieving the Docs.** ICLR 2023
 
      *Shuyan Zhou, Uri Alon, Frank F. Xu, Zhiruo Wang, Zhengbao Jiang, Graham Neubig*  [[pdf](https://arxiv.org/abs/2207.05987)], 2022.7.13
 
-11. **CodeT: Code Generation with Generated Tests.** ICLR 2023
+1. **CodeT: Code Generation with Generated Tests.** ICLR 2023
 
      *Bei Chen, Fengji Zhang, Anh Nguyen, Daoguang Zan, Zeqi Lin, Jian-Guang Lou, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2207.10397)], 2022.7.21
 
-12. **Neurosymbolic Repair for Low-Code Formula Languages.** OOPSLA 2022
+1. **Neurosymbolic Repair for Low-Code Formula Languages.** OOPSLA 2022
 
      *Rohan Bavishi, Harshit Joshi, José Pablo Cambronero Sánchez, Anna Fariha, Sumit Gulwani, Vu Le, Ivan Radicek, Ashish Tiwari*  [[pdf](https://arxiv.org/abs/2207.11765)], 2022.7.24
 
-13. **Language Models Can Teach Themselves to Program Better.** ICLR 2023
+1. **Language Models Can Teach Themselves to Program Better.** ICLR 2023
 
      *Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai*  [[pdf](https://arxiv.org/abs/2207.14502)], 2022.7.29
 
-14. **CSSAM: Code Search via Attention Matching of Code Semantics and Structures.** SANER 2023
+1. **CSSAM: Code Search via Attention Matching of Code Semantics and Structures.** SANER 2023
 
      *Yi Hu, Bo Cai, Yaoxiang Yu*  [[pdf](https://arxiv.org/abs/2208.03922)], 2022.8.8
 
-15. **Incorporating Domain Knowledge through Task Augmentation for Front-End JavaScript Code Generation.** ESEC/FSE 2022
+1. **Incorporating Domain Knowledge through Task Augmentation for Front-End JavaScript Code Generation.** ESEC/FSE 2022
 
      *Sijie Shen, Xiang Zhu, Yihong Dong, Qizhi Guo, Yankun Zhen, Ge Li*  [[pdf](https://arxiv.org/abs/2208.10091)], 2022.8.22
 
-16. **Code4Struct: Code Generation for Few-Shot Event Structure Prediction.** ACL 2023
+1. **Code4Struct: Code Generation for Few-Shot Event Structure Prediction.** ACL 2023
 
      *Xingyao Wang, Sha Li, Heng Ji*  [[pdf](https://arxiv.org/abs/2210.12810)], 2022.10.23
 
@@ -168,7 +172,7 @@
    
      *Abhinav Jain, Chima Adiole, Swarat Chaudhuri, Thomas Reps, Chris Jermaine*  [[pdf](https://arxiv.org/abs/2305.18341)], 2023.5.25
 
-46. **SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL.** Arxiv
+42. **SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL.** Arxiv
 
     *Ruoxi Sun, Sercan O. Arik, Hootan Nakhost, Hanjun Dai, Rajarishi Sinha, Pengcheng Yin, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2306.00739)], 2023.5.26
 
@@ -184,45 +188,57 @@
 
      *Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang*  [[pdf](https://arxiv.org/abs/2306.08568)], 2023.6.14
 
-47. **Demystifying GPT Self-Repair for Code Generation.** Arxiv
+46. **Demystifying GPT Self-Repair for Code Generation.** Arxiv
 
      *Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama*  [[pdf](https://arxiv.org/abs/2306.09896)], 2023.6.16
 
-48. **RepoFusion: Training Code Models to Understand Your Repository.** Arxiv
+1. **RepoFusion: Training Code Models to Understand Your Repository.** Arxiv
 
      *Disha Shrivastava, Denis Kocetkov, Harm de Vries, Dzmitry Bahdanau, Torsten Scholak*  [[pdf](https://arxiv.org/abs/2306.10998)], 2023.6.19
 
-49. **Guiding Language Models of Code with Global Context using Monitors.** Arxiv
+1. **Guiding Language Models of Code with Global Context using Monitors.** Arxiv
 
      *Lakshya A Agrawal, Aditya Kanade, Navin Goyal, Shuvendu K. Lahiri, Sriram K. Rajamani*  [[pdf](https://arxiv.org/abs//2306.10763)], 2023.6.19
 
-50. **Textbooks Are All You Need.** Arxiv
+1. **Textbooks Are All You Need.** Arxiv
 
      *Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi, Adil Salim, Shital Shah, Harkirat Singh Behl, Xin Wang, Sébastien Bubeck, Ronen Eldan, Adam Tauman Kalai, Yin Tat Lee, Yuanzhi Li*  [[pdf](https://arxiv.org/abs/2306.11644)], 2023.6.20
 
-51. **Language models are weak learners.** Arxiv
+1. **Language models are weak learners.** Arxiv
 
      *Hariharan Manikandan, Yiding Jiang, J Zico Kolter*  [[pdf](https://arxiv.org/abs/2306.14101)], 2023.6.25
 
-52. **LongCoder: A Long-Range Pre-trained Language Model for Code Completion.** Arxiv
+1. **LongCoder: A Long-Range Pre-trained Language Model for Code Completion.** Arxiv
 
      *Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley*  [[pdf](https://arxiv.org/abs/2306.14893)], 2023.6.26
 
-53. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback.** Arxiv
+1. **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback.** Arxiv
 
      *John Yang, Akshara Prabhakar, Karthik Narasimhan, Shunyu Yao*  [[pdf](https://arxiv.org/abs/2306.14898)], 2023.6.26
 
-54. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
+1. **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** Arxiv
 
      *Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust*  [[pdf](https://arxiv.org/abs/2307.12856)], 2023.7.24
 
-55. **Predicting Code Coverage without Execution** Arxiv
+1. **Predicting Code Coverage without Execution** Arxiv
 
     *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
 
-56. **InstructCoder: Empowering Language Models for Code Editing** Arxiv
+1. **Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation** EMNLP 2023
+
+   *Hailin Chen, Amrita Saha, Steven Hoi, Shafiq Joty* [[pdf](https://arxiv.org/abs/2310.18628)], 2023.10.28
+
+1. **LILO: LEARNING INTERPRETABLE LIBRARIES BY COMPRESSING AND DOCUMENTING CODE** Arxiv
+
+    *Gabriel Grand, Lionel Wong, Matthew Bowers, Theo X. Olausson, Muxin Liu, Joshua B. Tenenbaum, Jacob Andreas* [[pdf](https://arxiv.org/abs/2310.19791)], 2023.10.30
+
+1. **InstructCoder: Empowering Language Models for Code Editing** Arxiv
 
     *Qisheng Hu, Kaixin Li, Xu Zhao, Yuxi Xie, Tiedong Liu, Hui Chen, Qizhe Xie, Junxian He* [[pdf](https://arxiv.org/abs/2310.20329)], 2023.10.31
+
+
+
+
 
     
 
