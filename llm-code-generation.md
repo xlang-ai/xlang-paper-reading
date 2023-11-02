@@ -224,6 +224,10 @@
 
     *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
 
+1. **Symbolic Planning and Code Generation for Grounded Dialogue** EMNLP 2023
+
+   *Justin T. Chiu, Wenting Zhao, Derek Chen, Saujas Vaduguru, Alexander M. Rush, Daniel Fried* [[pdf](https://arxiv.org/abs/2310.17140)], 2023.10.26
+
 1. **Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation** EMNLP 2023
 
    *Hailin Chen, Amrita Saha, Steven Hoi, Shafiq Joty* [[pdf](https://arxiv.org/abs/2310.18628)], 2023.10.28
@@ -235,6 +239,10 @@
 1. **InstructCoder: Empowering Language Models for Code Editing** Arxiv
 
     *Qisheng Hu, Kaixin Li, Xu Zhao, Yuxi Xie, Tiedong Liu, Hui Chen, Qizhe Xie, Junxian He* [[pdf](https://arxiv.org/abs/2310.20329)], 2023.10.31
+
+
+
+   
 
 
 
