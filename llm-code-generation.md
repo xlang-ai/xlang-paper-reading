@@ -240,6 +240,13 @@
 
     *Qisheng Hu, Kaixin Li, Xu Zhao, Yuxi Xie, Tiedong Liu, Hui Chen, Qizhe Xie, Junxian He* [[pdf](https://arxiv.org/abs/2310.20329)], 2023.10.31
 
+1. **Data Augmentation for Code Translation with Comparable Corpora and Multiple References**, EMNLP 2023 Findings
+
+    *Yiqing Xie, Atharva Naik, Daniel Fried, Carolyn Rose* [[pdf](https://arxiv.org/abs/2311.00317)], 2023.11.1
+
+
+
+
 
 
    
