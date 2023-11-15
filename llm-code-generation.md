@@ -72,123 +72,127 @@
 
      *Xingyao Wang, Sha Li, Heng Ji*  [[pdf](https://arxiv.org/abs/2210.12810)], 2022.10.23
 
-17. **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation.** ICML 2023
+1. **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation.** ICML 2023
 
      *Yuhang Lai, Chengxi Li, Yiming Wang, Tianyi Zhang, Ruiqi Zhong, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, Tao Yu*  [[pdf](https://arxiv.org/abs/2211.11501)], 2022.11.18
 
-18. **Coder Reviewer Reranking for Code Generation.** ICML 2023
+1. **Coder Reviewer Reranking for Code Generation.** ICML 2023
 
      *Tianyi Zhang, Tao Yu, Tatsunori B. Hashimoto, Mike Lewis, Wen-tau Yih, Daniel Fried, Sida I. Wang*  [[pdf](https://arxiv.org/abs/2211.16490)], 2022.11.29
 
-19. **Natural Language to Code Generation in Interactive Data Science Notebooks.** ACL 2023
+1. **Natural Language to Code Generation in Interactive Data Science Notebooks.** ACL 2023
 
     *Pengcheng Yin, Wen-Ding Li, Kefan Xiao, Abhishek Rao, Yeming Wen, Kensen Shi, Joshua Howland, Paige Bailey, Michele Catasta, Henryk Michalewski, Alex Polozov, Charles Sutton* [[pdf](https://arxiv.org/abs/2212.09248)], 2022.12.19
    
-20. **Python Code Generation by Asking Clarification Questions.** ACL 2023
+1. **Python Code Generation by Asking Clarification Questions.** ACL 2023
 
      *Haau-Sing Li, Mohsen Mesgar, André F. T. Martins, Iryna Gurevych*  [[pdf](https://arxiv.org/abs/2212.09885)], 2022.12.19
 
-21. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** ACL 2023
+1. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** ACL 2023
 
     *Yu Gu, Xiang Deng, Yu Su*  [[pdf](https://arxiv.org/abs/2212.09736)], 2022.12
 
-22. **Large language models are versatile decomposers: Decompose evidence and questions for table-based reasoning.** SIGIR 2023
+1. **Large language models are versatile decomposers: Decompose evidence and questions for table-based reasoning.** SIGIR 2023
 
     *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*  [[pdf](https://arxiv.org/abs/2301.13808)], 2023.1
 
-23. **LEVER: Learning to Verify Language-to-Code Generation with Execution.** ICML 2023
+1. **Learning Performance-Improving Code Edits** Arxiv
+
+   *Alexander Shypula, Aman Madaan, Yimeng Zeng, Uri Alon, Jacob Gardner, Milad Hashemi, Graham Neubig, Parthasarathy Ranganathan, Osbert Bastani, Amir Yazdanbakhsh* [[pdf](https://arxiv.org/abs/2302.07867)], 2023.2.15
+
+1. **LEVER: Learning to Verify Language-to-Code Generation with Execution.** ICML 2023
 
      *Ansong Ni, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, Xi Victoria Lin*  [[pdf](https://arxiv.org/abs/2302.08468)], 2023.2.16
    
-24. **EvoPrompting: Language Models for Code-Level Neural Architecture Search.** Arxiv
+1. **EvoPrompting: Language Models for Code-Level Neural Architecture Search.** Arxiv
 
      *Angelica Chen, David M. Dohan, David R. So*  [[pdf](https://arxiv.org/abs/2302.14838)], 2023.2.28
    
-25. **Planning with Large Language Models for Code Generation.** ICLR 2023
+1. **Planning with Large Language Models for Code Generation.** ICLR 2023
 
      *Shun Zhang, Zhenfang Chen, Yikang Shen, Mingyu Ding, Joshua B. Tenenbaum, Chuang Gan.*  [[pdf](https://arxiv.org/abs/2303.05510)], 2023.3.9
    
-26. **Self-planning Code Generation with Large Language Model.** Arxiv
+1. **Self-planning Code Generation with Large Language Model.** Arxiv
 
      *Xue Jiang, Yihong Dong, Lecheng Wang, Qiwei Shang, Ge Li*  [[pdf](https://arxiv.org/abs/2303.06689)], 2023.3.12
    
-27. **Reflexion: Language Agents with Verbal Reinforcement Learning.** Arxiv
+1. **Reflexion: Language Agents with Verbal Reinforcement Learning.** Arxiv
 
      *Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao*  [[pdf](https://arxiv.org/abs/2303.11366)], 2023.3.20
 
-28. **Teaching Large Language Models to Self-Debug.** Arxiv
+1. **Teaching Large Language Models to Self-Debug.** Arxiv
 
      *Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou*  [[pdf](https://arxiv.org/abs/2304.05128)], 2023.4.11
 
-29. **WizardLM: Empowering Large Language Models to Follow Complex Instructions.** Arxiv
+1. **WizardLM: Empowering Large Language Models to Follow Complex Instructions.** Arxiv
 
      *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang*  [[pdf](https://arxiv.org/abs/2304.12244)], 2023.4.24
 
-30. **Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation.** ICML 2023
+1. **Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation.** ICML 2023
 
     *Wenqing Zheng, S P Sharan, Ajay Kumar Jaiswal, Kevin Wang, Yihan Xi, Dejia Xu, Zhangyang Wang*  [[pdf](https://arxiv.org/abs/2305.00909)], 2023.4.28
 
-31. **From Words to Code: Harnessing Data for Program Synthesis from Natural Language.** Arxiv
+1. **From Words to Code: Harnessing Data for Program Synthesis from Natural Language.** Arxiv
 
      *Anirudh Khatry, Joyce Cahoon, Jordan Henkel, Shaleen Deep, Venkatesh Emani, Avrilia Floratou, Sumit Gulwani, Vu Le, Mohammad Raza, Sherry Shi, Mukul Singh, Ashish Tiwari*  [[pdf](https://arxiv.org/abs/2305.01598)], 2023.5.2
 
-32. **Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs.** Arxiv
+1. **Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs.** Arxiv
 
     *Jinyang Li, Binyuan Hui, Ge Qu, Binhua Li, Jiaxi Yang, Bowen Li, Bailin Wang, Bowen Qin, Rongyu Cao, Ruiying Geng, Nan Huo, Xuanhe Zhou, Chenhao Ma, Guoliang Li, Kevin C.C. Chang, Fei Huang, Reynold Cheng, Yongbin Li*  [[pdf](https://arxiv.org/abs/2305.03111)], 2023.5
 
-33. **Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation.** Arxiv
+1. **Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation.** Arxiv
 
      *Jiawei Liu, Chunqiu Steven Xia, Yuyao Wang, Lingming Zhang*  [[pdf](https://arxiv.org/abs/2305.01210)], 2023.5.2
 
-34. **On Contrastive Learning of Semantic Similarity forCode to Code Search.**  Arxiv
+1. **On Contrastive Learning of Semantic Similarity forCode to Code Search.**  Arxiv
 
     *Anthony Saieva, Saikat Chakraborty, Gail Kaiser*  [[pdf](https://arxiv.org/abs/2305.03843)], 2023.5.5
 
-35. **Self-Edit: Fault-Aware Code Editor for Code Generation.** ACL 2023
+1. **Self-Edit: Fault-Aware Code Editor for Code Generation.** ACL 2023
 
     *Kechi Zhang, Zhuo Li, Jia Li, Ge Li, Zhi Jin*  [[pdf](https://arxiv.org/abs/2305.04087)], 2023.5.6
 
-36. **Code Execution with Pre-trained Language Models.** ACL 2023 Findings
+1. **Code Execution with Pre-trained Language Models.** ACL 2023 Findings
 
     *Chenxiao Liu, Shuai Lu, Weizhu Chen, Daxin Jiang, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan, Nan Duan*  [[pdf](https://arxiv.org/abs/2305.05383)], 2023.5.8
 
-37. **StarCoder: may the source be with you!** Arxiv
+1. **StarCoder: may the source be with you!** Arxiv
 
     *Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-Poirier, João Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-Ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-Gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro von Werra, Harm de Vries* [[pdf](https://arxiv.org/abs/2305.06161)], 2023.5.9
 
-38. **SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs.** Arxiv
+1. **SelfzCoT: a Self-Prompt Zero-shot CoT from Semantic-level to Code-level for a Better Utilization of LLMs.** Arxiv
 
     *IokTong Lei, ZhiDong Deng*  [[pdf](https://arxiv.org/abs/2305.11461)], 2023.5.19
 
-39. **Text-to-SQL Error Correction with Language Models of Code.** ACL 2023
+1. **Text-to-SQL Error Correction with Language Models of Code.** ACL 2023
 
      *Ziru Chen, Shijie Chen, Michael White, Raymond Mooney, Ali Payani, Jayanth Srinivasa, Yu Su, Huan Sun*  [[pdf](https://arxiv.org/abs/2305.13073)], 2023.5.22
 
-40. **ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers.** Arxiv
+1. **ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers.** Arxiv
 
      *Kexun Zhang, Danqing Wang, Jingtao Xia, William Yang Wang, Lei Li*  [[pdf](https://arxiv.org/abs/2305.14591)], 2023.5.24
 
-41. **Tuning Models of Code with Compiler-Generated Reinforcement Learning Feedback.** Arxiv
+1. **Tuning Models of Code with Compiler-Generated Reinforcement Learning Feedback.** Arxiv
    
      *Abhinav Jain, Chima Adiole, Swarat Chaudhuri, Thomas Reps, Chris Jermaine*  [[pdf](https://arxiv.org/abs/2305.18341)], 2023.5.25
 
-42. **SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL.** Arxiv
+1. **SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL.** Arxiv
 
     *Ruoxi Sun, Sercan O. Arik, Hootan Nakhost, Hanjun Dai, Rajarishi Sinha, Pengcheng Yin, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2306.00739)], 2023.5.26
 
-43. **Grammar Prompting for Domain-Specific Language Generation with Large Language Models.** Arxiv
+1. **Grammar Prompting for Domain-Specific Language Generation with Large Language Models.** Arxiv
 
      *Bailin Wang, Zi Wang, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim*  [[pdf](https://arxiv.org/abs/2305.19234)], 2023.5.30
 
-44. **SELFEVOLVE: A Code Evolution Framework via Large Language Models.** Arxiv
+1. **SELFEVOLVE: A Code Evolution Framework via Large Language Models.** Arxiv
 
     *Shuyang Jiang, Yuhao Wang, Yu Wang* [[pdf](https://arxiv.org/abs/2306.02907)], 2023.6.5
    
-45. **WizardCoder: Empowering Code Large Language Models with Evol-Instruct.** Arxiv
+1. **WizardCoder: Empowering Code Large Language Models with Evol-Instruct.** Arxiv
 
      *Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang*  [[pdf](https://arxiv.org/abs/2306.08568)], 2023.6.14
 
-46. **Demystifying GPT Self-Repair for Code Generation.** Arxiv
+1. **Demystifying GPT Self-Repair for Code Generation.** Arxiv
 
      *Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama*  [[pdf](https://arxiv.org/abs/2306.09896)], 2023.6.16
 
@@ -224,6 +228,10 @@
 
     *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
 
+1. **ExeDec: Execution Decomposition for Compositional Generalization in Neural Program Synthesis** Arxiv
+
+   *Kensen Shi, Joey Hong, Manzil Zaheer, Pengcheng Yin, Charles Sutton* [[pdf](https://arxiv.org/abs/2307.13883)], 2023.7.26
+   
 1. **Symbolic Planning and Code Generation for Grounded Dialogue** EMNLP 2023
 
    *Justin T. Chiu, Wenting Zhao, Derek Chen, Saujas Vaduguru, Alexander M. Rush, Daniel Fried* [[pdf](https://arxiv.org/abs/2310.17140)], 2023.10.26
