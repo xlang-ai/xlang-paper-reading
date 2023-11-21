@@ -252,6 +252,11 @@
 
     *Yiqing Xie, Atharva Naik, Daniel Fried, Carolyn Rose* [[pdf](https://arxiv.org/abs/2311.00317)], 2023.11.1
 
+1. **Past as a Guide: Leveraging Retrospective Learning for Python Code Completion**, Arxiv
+
+   *Seunggyoon Shin, Seunggyu Chang, Sungjoon Choi*  [[pdf](https://arxiv.org/abs/2311.07635#:~:text=Past%20as%20a%20Guide%3A%20Leveraging%20Retrospective%20Learning%20for%20Python%20Code%20Completion,-Seunggyoon%20Shin%2C%20Seunggyu&text=This%20work%20presents%20Past%20as,interactive%20and%20iterative%20code%20refinements)]
+
+
 
 
 
