@@ -1,4 +1,24 @@
 
+1. **Retrieval Augmented Code Generation and Summarization**, EMNLP-Findings 2021
+
+   *Md Rizwan Parvez, Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray, Kai-Wei Chang*  [[pdf](https://arxiv.org/abs/2108.11601)], 2021.8.26
+
+1. **Natural Language to Code Translation with Execution**, EMNLP 2022
+
+   *Freda Shi, Daniel Fried, Marjan Ghazvininejad, Luke Zettlemoyer, Sida I. Wang*  [[pdf](https://arxiv.org/abs/2204.11454)], 2022.4.25
+
+1. **Retrieving Multimodal Information for Augmented Generation: A Survey**, Arxiv
+
+   *Ruochen Zhao, Hailin Chen, Weishi Wang, Fangkai Jiao, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty*  [[pdf](https://arxiv.org/abs/2303.10868)], 2023.3.20
+
+1. **Combining Contexts from Multiple Sources for Documentation-Specific Code Example Generation**, Arxiv
+
+   *Junaed Younus Khan, Gias Uddin*  [[pdf](https://arxiv.org/abs/2303.14542)], 2023.3.25
+
+1. **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models**, NeurIPS 2023
+
+   *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2306.15626)], 2023.6.27
+
 1. **Language Agnostic Code Embeddings**
 
    *Saiteja Utpala, Alex Gu, Pin Yu Chen*  [[pdf](https://arxiv.org/abs/2310.16803)], 2023.10.25

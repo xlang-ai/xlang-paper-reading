@@ -152,6 +152,10 @@
 
     *Kechi Zhang, Zhuo Li, Jia Li, Ge Li, Zhi Jin*  [[pdf](https://arxiv.org/abs/2305.04087)], 2023.5.6
 
+1. **ToolCoder: Teach Code Generation Models to use API search tools** Arxiv
+
+   *Kechi Zhang, Huangzhao Zhang, Ge Li, Jia Li, Zhuo Li, Zhi Jin*  [[pdf](https://arxiv.org/abs/2305.04032)], 2023.5.6
+
 1. **Code Execution with Pre-trained Language Models.** ACL 2023 Findings
 
     *Chenxiao Liu, Shuai Lu, Weizhu Chen, Daxin Jiang, Alexey Svyatkovskiy, Shengyu Fu, Neel Sundaresan, Nan Duan*  [[pdf](https://arxiv.org/abs/2305.05383)], 2023.5.8
@@ -232,6 +236,10 @@
 
    *Kensen Shi, Joey Hong, Manzil Zaheer, Pengcheng Yin, Charles Sutton* [[pdf](https://arxiv.org/abs/2307.13883)], 2023.7.26
    
+1. **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**  Arxiv
+
+   *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2308.00675)], 2023.8.1
+
 1. **Symbolic Planning and Code Generation for Grounded Dialogue** EMNLP 2023
 
    *Justin T. Chiu, Wenting Zhao, Derek Chen, Saujas Vaduguru, Alexander M. Rush, Daniel Fried* [[pdf](https://arxiv.org/abs/2310.17140)], 2023.10.26
@@ -252,9 +260,15 @@
 
     *Yiqing Xie, Atharva Naik, Daniel Fried, Carolyn Rose* [[pdf](https://arxiv.org/abs/2311.00317)], 2023.11.1
 
-1. **Past as a Guide: Leveraging Retrospective Learning for Python Code Completion**, Arxiv
+1. **Retrieval-Augmented Code Generation for Universal Information Extraction**
+    
+    *Yucan Guo, Zixuan Li, Xiaolong Jin, Yantao Liu, Yutao Zeng, Wenxuan Liu, Xiang Li, Pan Yang, Long Bai, Jiafeng Guo, Xueqi Cheng*  [[pdf](https://arxiv.org/abs/2311.02962)], 2023.11.6
 
-   *Seunggyoon Shin, Seunggyu Chang, Sungjoon Choi*  [[pdf](https://arxiv.org/abs/2311.07635#:~:text=Past%20as%20a%20Guide%3A%20Leveraging%20Retrospective%20Learning%20for%20Python%20Code%20Completion,-Seunggyoon%20Shin%2C%20Seunggyu&text=This%20work%20presents%20Past%20as,interactive%20and%20iterative%20code%20refinements)]
+1. **Past as a Guide: Leveraging Retrospective Learning for Python Code Completion**, Neurips 2023 Workshop
+
+   *Seunggyoon Shin, Seunggyu Chang, Sungjoon Choi*  [[pdf](https://arxiv.org/abs/2311.07635)], 2023.11.13
+
+
 
 
 
