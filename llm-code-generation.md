@@ -278,7 +278,7 @@
 
 1. **Evaluating In-Context Learning of Libraries for Code Generation**
 
-   *https://arxiv.org/abs/2311.09635*  [[pdf](https://arxiv.org/abs/2311.09635)], 2023.11.16
+   *Arkil Patel, Siva Reddy, Dzmitry Bahdanau, Pradeep Dasigi*  [[pdf](https://arxiv.org/abs/2311.09635)], 2023.11.16
 
 
 
