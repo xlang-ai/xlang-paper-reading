@@ -280,6 +280,14 @@
 
    *Arkil Patel, Siva Reddy, Dzmitry Bahdanau, Pradeep Dasigi*  [[pdf](https://arxiv.org/abs/2311.09635)], 2023.11.16
 
+1. **Function-constrained Program Synthesis**, 2023 NeurIPS R0-Fomo Workshop
+
+   *Patrick Hajali, Ignas Budvytis*  [[pdf](https://arxiv.org/abs/2311.15500)], 2023.11.27
+
+1. **Applications of Large Language Models in Data Processing: Innovative Approaches to Segmenting and Renewing Information**
+
+   *Yu-Chen Lin, Akhilesh Kumar, Wen-Liang Zhang, Norman Chang, Muhammad Zakir, Rucha Apte, Chao Wang, Jyh-Shing Roger Jang*  [[pdf](https://arxiv.org/abs/2311.16267)], 2023.11.27
+
 
 
 
