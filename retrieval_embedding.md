@@ -55,4 +55,28 @@
 
    *Mayank Kothyari, Dhruva Dhingra, Sunita Sarawagi, Soumen Chakrabarti*  [[pdf](https://arxiv.org/abs/2311.01173)], 2023.11.2
 
+1. **Multi-Step Dialogue Workflow Action Prediction**
+
+   *Ramya Ramakrishnan, Ethan Elenberg, Hashan Narangodage, Ryan McDonald*  [[pdf](https://arxiv.org/abs/2311.09593)], 2023.11.16
+
+1. **Sequencing Matters: A Generate-Retrieve-Generate Model for Building Conversational Agents**
+
+   *Quinn Patwardhan, Grace Hui Yang*  [[pdf](https://arxiv.org/abs/2311.09513)], 2023.11.16
+
+1. **ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**
+
+   *Sai Munikoti, Anurag Acharya, Sridevi Wagle, Sameera Horawalavithana*  [[pdf](https://arxiv.org/abs/2311.12289)], 2023.11.21
+
+1. **UniIR: Training and Benchmarking Universal Multimodal Information Retrievers**
+
+   *Cong Wei, Yang Chen, Haonan Chen, Hexiang Hu, Ge Zhang, Jie Fu, Alan Ritter, Wenhu Chen* [[pdf](https://arxiv.org/abs/2311.17136)], 2023.11.28
+
+1. **How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**
+
+   *Chenxi Dong* [[pdf](https://arxiv.org/abs/2311.17696)], 2023.11.29
+
+   
+
+
+
 
