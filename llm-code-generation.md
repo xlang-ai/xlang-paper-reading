@@ -268,6 +268,18 @@
 
    *Seunggyoon Shin, Seunggyu Chang, Sungjoon Choi*  [[pdf](https://arxiv.org/abs/2311.07635)], 2023.11.13
 
+1. **ML-Bench: Large Language Models Leverage Open-source Libraries for Machine Learning Tasks**
+
+   *Yuliang Liu, Xiangru Tang, Zefan Cai, Junjie Lu, Yichi Zhang, Yanjun Shao, Zexuan Deng, Helan Hu, Zengxian Yang, Kaikai An, Ruijun Huang, Shuzheng Si, Sheng Chen, Haozhe Zhao, Zhengliang Li, Liang Chen, Yiming Zong, Yan Wang, Tianyu Liu, Zhiwei Jiang, Baobao Chang, Yujia Qin, Wangchunshu Zhou, Yilun Zhao, Arman Cohan, Mark Gerstein*  [[pdf](https://arxiv.org/abs/2311.09835)], 2023.11.16
+
+1. **GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding**
+
+   *Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Florian Sihler, Ansgar Scherp*  [[pdf](https://arxiv.org/abs/2311.09707)], 2023.11.16
+
+1. **Evaluating In-Context Learning of Libraries for Code Generation**
+
+   *https://arxiv.org/abs/2311.09635*  [[pdf](https://arxiv.org/abs/2311.09635)], 2023.11.16
+
 
 
 
