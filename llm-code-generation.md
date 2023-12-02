@@ -264,6 +264,10 @@
 
     *Yiqing Xie, Atharva Naik, Daniel Fried, Carolyn Rose* [[pdf](https://arxiv.org/abs/2311.00317)], 2023.11.1
 
+1. **Safurai-Csharp: Harnessing Synthetic Data to improve language-specific Code LLM**
+
+   *Davide Cifarelli, Leonardo Boiardi, Alessandro Puppo, Leon Jovanovic* [[pdf](https://arxiv.org/abs/2311.03243)], 2023.11.6
+
 1. **Retrieval-Augmented Code Generation for Universal Information Extraction**
     
     *Yucan Guo, Zixuan Li, Xiaolong Jin, Yantao Liu, Yutao Zeng, Wenxuan Liu, Xiang Li, Pan Yang, Long Bai, Jiafeng Guo, Xueqi Cheng*  [[pdf](https://arxiv.org/abs/2311.02962)], 2023.11.6
@@ -271,6 +275,18 @@
 1. **Past as a Guide: Leveraging Retrospective Learning for Python Code Completion**, Neurips 2023 Workshop
 
    *Seunggyoon Shin, Seunggyu Chang, Sungjoon Choi*  [[pdf](https://arxiv.org/abs/2311.07635)], 2023.11.13
+
+1. **Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback**
+
+   *Seungjun Moon, Yongho Song, Hyungjoo Chae, Dongjin Kang, Taeyoon Kwon, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo*  [[pdf](https://arxiv.org/abs/2311.07215)], 2023.11.13
+
+1. **Explain-then-Translate: An Analysis on Improving Program Translation with Self-generated Explanations**
+
+   *Zilu Tang, Mayank Agarwal, Alex Shypula, Bailin Wang, Derry Wijaya, Jie Chen, Yoon Kim*, 2023.11.13
+
+1. **CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation**
+
+   *https://arxiv.org/abs/2311.08588*  [[pdf](https://arxiv.org/abs/2311.08588)], 2023.11.14
 
 1. **ML-Bench: Large Language Models Leverage Open-source Libraries for Machine Learning Tasks**
 
@@ -291,6 +307,12 @@
 1. **Applications of Large Language Models in Data Processing: Innovative Approaches to Segmenting and Renewing Information**
 
    *Yu-Chen Lin, Akhilesh Kumar, Wen-Liang Zhang, Norman Chang, Muhammad Zakir, Rucha Apte, Chao Wang, Jyh-Shing Roger Jang*  [[pdf](https://arxiv.org/abs/2311.16267)], 2023.11.27
+
+1. **Self-Infilling Code Generation**
+
+   *Lin Zheng, Jianbo Yuan, Zhi Zhang, Hongxia Yang, Lingpeng Kong*  [[pdf](https://arxiv.org/abs/2311.17972)], 2023.11.29
+
+
 
 
 
