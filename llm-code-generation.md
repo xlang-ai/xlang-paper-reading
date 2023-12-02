@@ -90,11 +90,15 @@
 
 1. **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** ACL 2023
 
-    *Yu Gu, Xiang Deng, Yu Su*  [[pdf](https://arxiv.org/abs/2212.09736)], 2022.12
+    *Yu Gu, Xiang Deng, Yu Su*  [[pdf](https://arxiv.org/abs/2212.09736)], 2022.12.19
+
+1. **Execution-Based Evaluation for Open-Domain Code Generation**
+
+   *Zhiruo Wang, Shuyan Zhou, Daniel Fried, Graham Neubig*  [[pdf](https://arxiv.org/abs/2212.10481)], 2023.12.20
 
 1. **Large language models are versatile decomposers: Decompose evidence and questions for table-based reasoning.** SIGIR 2023
 
-    *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*  [[pdf](https://arxiv.org/abs/2301.13808)], 2023.1
+    *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*  [[pdf](https://arxiv.org/abs/2301.13808)], 2023.1.31
 
 1. **Learning Performance-Improving Code Edits** Arxiv
 
