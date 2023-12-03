@@ -244,6 +244,102 @@
 
    *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2308.00675)], 2023.8.1
 
+1. **OctoPack: Instruction Tuning Code Large Language Models**
+
+   *Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre*  [[pdf](https://arxiv.org/abs/2308.07124)], 2023.8.14
+
+1. **Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**
+
+   *Aojun Zhou, Ke Wang, Zimu Lu, Weikang Shi, Sichun Luo, Zipeng Qin, Shaoqing Lu, Anya Jia, Linqi Song, Mingjie Zhan, Hongsheng Li*  [[pdf](https://arxiv.org/abs/2308.07921)], 2023.8.15
+
+1. **Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models**
+
+   *Jie JW Wu*  [[pdf](https://arxiv.org/abs/2308.13507)], 2023.8.25
+
+1. **BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge**
+
+   *Xiangru Tang, Bill Qian, Rick Gao, Jiakang Chen, Xinyun Chen, Mark Gerstein*  [[pdf](https://arxiv.org/abs/2308.16458)], 2023.8.31
+
+1. **CodeApex: A Bilingual Programming Evaluation Benchmark for Large Language Models**
+
+   *Lingyue Fu, Huacan Chai, Shuang Luo, Kounianhua Du, Weiming Zhang, Longteng Fan, Jiayi Lei, Renting Rui, Jianghao Lin, Yuchen Fang, Yifan Liu, Jingkuan Wang, Siyuan Qi, Kangning Zhang, Weinan Zhang, Yong Yu*  [[pdf](https://arxiv.org/abs/2309.01940)], 2023.9.5
+
+1. **Improving Code Generation by Dynamic Temperature Sampling**
+
+   *Yuqi Zhu, Jia Li, Ge Li, YunFei Zhao, Jia Li, Zhi Jin, Hong Mei*  [[pdf](https://arxiv.org/abs/2309.02772)], 2023.9.6
+
+1. **RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair**
+
+   *Weishi Wang, Yue Wang, Shafiq Joty, Steven C.H. Hoi*  [[pdf](https://arxiv.org/abs/2309.06057)], 2023.9.12
+
+1. **Safurai 001: New Qualitative Approach for Code LLM Evaluation**
+
+   *Davide Cifarelli, Leonardo Boiardi, Alessandro Puppo*  [[pdf](https://arxiv.org/abs/2309.11385)], 2023.9.20
+
+1. **Program Repair with Minimal Edits Using CodeT5**
+
+   *Atsushi Shirafuji, Md. Mostafizer Rahman, Md Faizul Ibne Amin, Yutaka Watanobe*  [[pdf](https://arxiv.org/abs/2309.14760)], 2023.9.26
+
+1. **L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**
+
+   *Ansong Ni, Pengcheng Yin, Yilun Zhao, Martin Riddell, Troy Feng, Rui Shen, Stephen Yin, Ye Liu, Semih Yavuz, Caiming Xiong, Shafiq Joty, Yingbo Zhou, Dragomir Radev, Arman Cohan*  [[pdf](https://arxiv.org/abs/2309.17446)], 2023.9.29
+
+1. **Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency**
+
+   *Baizhou Huang, Shuai Lu, Weizhu Chen, Xiaojun Wan, Nan Duan*  [[pdf](https://arxiv.org/abs/2309.17272)], 2023.9.29
+
+1. **L2MAC: Large Language Model Automatic Computer for Unbounded Code Generation**
+
+   *Samuel Holt, Max Ruiz Luyten, Mihaela van der Schaar*  [[pdf](https://arxiv.org/abs/2310.02003)], 2023.10.2
+
+1. **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation**
+
+   *Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai*  [[pdf](https://arxiv.org/abs/2310.02304)], 2023.10.3
+
+1. **$\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program Synthesis**
+
+   *Zishun Yu, Yunzhe Tao, Liyu Chen, Tao Sun, Hongxia Yang*  [[pdf](https://arxiv.org/abs/2310.03173)], 2023.10.4
+
+1. **Can Language Models Employ the Socratic Method? Experiments with Code Debugging**
+
+   *Erfan Al-Hossami, Razvan Bunescu, Justin Smith, Ryan Teehan*  [[pdf](https://arxiv.org/abs/2310.03210)], 2023.10.4
+
+1. **MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**
+
+   *Ke Wang, Houxing Ren, Aojun Zhou, Zimu Lu, Sichun Luo, Weikang Shi, Renrui Zhang, Linqi Song, Mingjie Zhan, Hongsheng Li*  [[pdf](https://arxiv.org/abs/2310.03731)], 2023.10.5
+
+1. **The Program Testing Ability of Large Language Models for Code**
+
+   *Weimin Xiong, Yiwen Guo, Hao Chen*  [[pdf](https://arxiv.org/abs/2310.05727)], 2023.10.9
+
+1. **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?**
+
+   *Carlos E. Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan*  [[pdf](https://arxiv.org/abs/2310.06770)], 2023.10.10
+
+1. **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules**
+
+   *Hung Le, Hailin Chen, Amrita Saha, Akash Gokul, Doyen Sahoo, Shafiq Joty*  [[pdf](https://arxiv.org/abs/2310.08992)], 2023.10.13
+
+1. **Large Language Model-Aware In-Context Learning for Code Generation**
+
+   *Jia Li, Ge Li, Chongyang Tao, Jia Li, Huangzhao Zhang, Fang Liu, Zhi Jin*  [[pdf](https://arxiv.org/abs/2310.09748)], 2023.10.15
+
+1. **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion**  NeurIPS 2023
+
+   *Yangruibo Ding, Zijian Wang, Wasi Uddin Ahmad, Hantian Ding, Ming Tan, Nihal Jain, Murali Krishna Ramanathan, Ramesh Nallapati, Parminder Bhatia, Dan Roth, Bing Xiang*  [[pdf](https://arxiv.org/abs/2310.11248)], 2023.10.17
+
+1. **Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis**
+
+   *Philip John Gorinski, Matthieu Zimmer, Gerasimos Lampouras, Derrick Goh Xin Deik, Ignacio Iacobacci*  [[pdf](https://arxiv.org/abs/2310.13669)], 10.20
+
+1. **API-Assisted Code Generation for Question Answering on Varied Table Structures**
+
+   *Yihan Cao, Shuyi Chen, Ryan Liu, Zhiruo Wang, Daniel Fried*  [[pdf](https://arxiv.org/abs/2310.14687)], 2023.10.23
+
+1. **Enhancing Large Language Models for Secure Code Generation: A Dataset-driven Study on Vulnerability Mitigation**
+
+   *Jiexin Wang, Liuwen Cao, Xitong Luo, Zhiping Zhou, Jiayuan Xie, Adam Jatowt, Yi Cai*  [[pdf](https://arxiv.org/abs/2310.16263)], 2023.10.25
+
 1. **Symbolic Planning and Code Generation for Grounded Dialogue** EMNLP 2023
 
    *Justin T. Chiu, Wenting Zhao, Derek Chen, Saujas Vaduguru, Alexander M. Rush, Daniel Fried* [[pdf](https://arxiv.org/abs/2310.17140)], 2023.10.26
