@@ -3,9 +3,9 @@
 
    *Md Rizwan Parvez, Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray, Kai-Wei Chang*  [[pdf](https://arxiv.org/abs/2108.11601)], 2021.8.26
 
-1. **Natural Language to Code Translation with Execution**, EMNLP 2022
+1. **Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge**, AAAI-22
 
-   *Freda Shi, Daniel Fried, Marjan Ghazvininejad, Luke Zettlemoyer, Sida I. Wang*  [[pdf](https://arxiv.org/abs/2204.11454)], 2022.4.25
+   *Yoonna Jang, Jungwoo Lim, Yuna Hur, Dongsuk Oh, Suhyune Son, Yeonsoo Lee, Donghoon Shin, Seungryong Kim, Heuiseok Lim*  [[pdf](https://arxiv.org/abs/2112.08619)], 2021.12.16
 
 1. **Retrieving Multimodal Information for Augmented Generation: A Survey**, Arxiv
 
@@ -74,6 +74,10 @@
 1. **How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**
 
    *Chenxi Dong* [[pdf](https://arxiv.org/abs/2311.17696)], 2023.11.29
+
+1. **Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**, 2023 IEEE International Conference on Data Mining Workshops (ICDMW)
+
+   *Junfeng Liu, Zhuocheng Mei, Kewen Peng, Ranga Raju Vatsavai*  [[pdf](https://arxiv.org/abs/2312.00774)], 2023.12.1
 
    
 
