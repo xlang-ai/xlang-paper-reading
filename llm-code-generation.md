@@ -386,7 +386,7 @@
 
 1. **CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation**
 
-   *https://arxiv.org/abs/2311.08588*  [[pdf](https://arxiv.org/abs/2311.08588)], 2023.11.14
+   *Weixiang Yan, Haitian Liu, Yunkun Wang, Yunzhe Li, Qian Chen, Wen Wang, Tingyu Lin, Weishan Zhao, Li Zhu, Shuiguang Deng, Hari Sundaram*  [[pdf](https://arxiv.org/abs/2311.08588)], 2023.11.14
 
 1. **ML-Bench: Large Language Models Leverage Open-source Libraries for Machine Learning Tasks**
 
