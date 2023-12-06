@@ -24,6 +24,10 @@
 
    *Ensheng Shi, Yanlin Wang, Wenchao Gu, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun* [[pdf](https://arxiv.org/abs/2204.03293)], 2022.4.7
 
+1. **Natural Language to Code Translation with Execution**, EMNLP 2022
+
+   *Freda Shi, Daniel Fried, Marjan Ghazvininejad, Luke Zettlemoyer, Sida I. Wang*  [[pdf](https://arxiv.org/abs/2204.11454)], 2022.4.25
+
 1. **Fault-Aware Neural Code Rankers.** NeurIPS 2022
 
    *Jeevana Priya Inala, Chenglong Wang, Mei Yang, Andres Codas, Mark Encarnación, Shuvendu K Lahiri, Madanlal Musuvathi, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2206.03865)], 2022.6.4
