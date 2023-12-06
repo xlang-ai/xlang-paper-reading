@@ -75,9 +75,23 @@
 
    *Chenxi Dong* [[pdf](https://arxiv.org/abs/2311.17696)], 2023.11.29
 
+1. **A Video is Worth 10,000 Words: Training and Benchmarking with Diverse Captions for Better Long Video Retrieval**
+
+   *Matthew Gwilliam, Michael Cogswell, Meng Ye, Karan Sikka, Abhinav Shrivastava, Ajay Divakaran*  [[pdf](https://arxiv.org/abs/2312.00115)], 2023.11.30
+
 1. **Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**, 2023 IEEE International Conference on Data Mining Workshops (ICDMW)
 
    *Junfeng Liu, Zhuocheng Mei, Kewen Peng, Ranga Raju Vatsavai*  [[pdf](https://arxiv.org/abs/2312.00774)], 2023.12.1
+
+1. **Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**
+
+   *Iakes Goenaga, Aitziber Atutxa, Koldo Gojenola, Maite Oronoz, Rodrigo Agerri*  [[pdf](https://arxiv.org/abs/2312.00567)], 2023.12.1
+
+1. **Event-driven Real-time Retrieval in Web Search**
+
+   *Nan Yang, Shusen Zhang, Yannan Zhang, Xiaoling Bai, Hualong Deng, Tianhua Zhou, Jin Ma*  [[pdf](https://arxiv.org/abs/2312.00372)], 2023.12.1
+
+
 
    
 
