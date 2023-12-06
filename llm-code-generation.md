@@ -408,6 +408,18 @@
 
    *Lin Zheng, Jianbo Yuan, Zhi Zhang, Hongxia Yang, Lingpeng Kong*  [[pdf](https://arxiv.org/abs/2311.17972)], 2023.11.29
 
+1. **Competition-Level Problems are Effective LLM Evaluators**
+
+   *Yiming Huang, Zhenghao Lin, Xiao Liu, Yeyun Gong, Shuai Lu, Fangyu Lei, Yaobo Liang, Yelong Shen, Chen Lin, Nan Duan, Weizhu Chen*  [[pdf](https://arxiv.org/abs/2312.02143)], 2023.12.4
+
+1. **Magicoder: Source Code Is All You Need**
+
+   *Yuxiang Wei, Zhe Wang, Jiawei Liu, Yifeng Ding, Lingming Zhang*  [[pdf](https://arxiv.org/abs/2312.02120)], 2023.12.4
+
+
+
+
+
 
 
 
