@@ -91,6 +91,16 @@
 
    *Nan Yang, Shusen Zhang, Yannan Zhang, Xiaoling Bai, Hualong Deng, Tianhua Zhou, Jin Ma*  [[pdf](https://arxiv.org/abs/2312.00372)], 2023.12.1
 
+1. **D-Bot: Database Diagnosis System using Large Language Models**
+
+   *Xuanhe Zhou, Guoliang Li, Zhaoyan Sun, Zhiyuan Liu, Weize Chen, Jianming Wu, Jiesi Liu, Ruohang Feng, Guoyang Zeng*  [[pdf](https://arxiv.org/abs/2312.01454)], 2023.12.3
+
+1. **Opportunities for Retrieval and Tool Augmented Large Language Models in Scientific Facilities**
+
+   *Michael H. Prince, Henry Chan, Aikaterini Vriza, Tao Zhou, Varuni K. Sastry, Matthew T. Dearing, Ross J. Harder, Rama K. Vasudevan, Mathew J. Cherukara*  [[pdf](https://arxiv.org/abs/2312.01291)], 2023.12.3
+
+
+
 
 
    
