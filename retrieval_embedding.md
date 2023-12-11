@@ -63,6 +63,10 @@
 
    *Quinn Patwardhan, Grace Hui Yang*  [[pdf](https://arxiv.org/abs/2311.09513)], 2023.11.16
 
+1. **Effective Large Language Model Adaptation for Improved Grounding**
+
+   *Xi Ye, Ruoxi Sun, Sercan Ö. Arik, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2311.09533)]
+
 1. **ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**
 
    *Sai Munikoti, Anurag Acharya, Sridevi Wagle, Sameera Horawalavithana*  [[pdf](https://arxiv.org/abs/2311.12289)], 2023.11.21
