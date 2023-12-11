@@ -420,6 +420,10 @@
 
    *Yuxiang Wei, Zhe Wang, Jiawei Liu, Yifeng Ding, Lingming Zhang*  [[pdf](https://arxiv.org/abs/2312.02120)], 2023.12.4
 
+1. **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**
+
+   *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter*  [[pdf](https://arxiv.org/abs/2312.04474)], 2023.12.7
+
 
 
 
