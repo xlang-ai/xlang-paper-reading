@@ -19,6 +19,10 @@
 
    *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2306.15626)], 2023.6.27
 
+1. **Retrieve Anything To Augment Large Language Models**
+
+   *Peitian Zhang, Shitao Xiao, Zheng Liu, Zhicheng Dou, Jian-Yun Nie*  [[pdf](https://arxiv.org/abs/2310.07554)], 2023.10.11
+
 1. **Language Agnostic Code Embeddings**
 
    *Saiteja Utpala, Alex Gu, Pin Yu Chen*  [[pdf](https://arxiv.org/abs/2310.16803)], 2023.10.25
