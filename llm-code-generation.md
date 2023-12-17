@@ -248,6 +248,10 @@
 
    *Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*  [[pdf](https://arxiv.org/abs/2308.00675)], 2023.8.1
 
+1. **Symmetry-Preserving Program Representations for Learning Code Semantics**  Arxiv
+
+   *Kexin Pei, Weichen Li, Qirui Jin, Shuyang Liu, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana* [[pdf](https://arxiv.org/abs/2308.03312)], 2023.8.7
+
 1. **OctoPack: Instruction Tuning Code Large Language Models**
 
    *Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre*  [[pdf](https://arxiv.org/abs/2308.07124)], 2023.8.14
