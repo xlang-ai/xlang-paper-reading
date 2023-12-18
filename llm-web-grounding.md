@@ -87,3 +87,7 @@
 21. **HeaP: Hierarchical Policies for Web Actions using LLMs** Arxiv
 
      *Paloma Sodhi, S.R.K. Branavan, Ryan McDonald* [[pdf](https://arxiv.org/abs/2310.03720)], 2023.10
+
+22. **The Unsolved Challenges of LLMs as Generalist Web Agents: A Case Study** Arxiv
+
+     *Rim_Assouel1, Tom Marty, Massimo Caccia, Issam H. Laradji, Alexandre Drouin, Sai Rajeswar, Hector Palacios, Quentin Cappart, David Vazquez, Nicolas Chapados, Maxime Gasse, Alexandre Lacoste* [[pdf](https://openreview.net/forum?id=jt3il4fC5B)], 2023.12
