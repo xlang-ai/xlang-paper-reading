@@ -91,3 +91,7 @@
 22. **The Unsolved Challenges of LLMs as Generalist Web Agents: A Case Study** Arxiv
 
      *Rim_Assouel1, Tom Marty, Massimo Caccia, Issam H. Laradji, Alexandre Drouin, Sai Rajeswar, Hector Palacios, Quentin Cappart, David Vazquez, Nicolas Chapados, Maxime Gasse, Alexandre Lacoste* [[pdf](https://openreview.net/forum?id=jt3il4fC5B)], 2023.12
+
+23. **"What's important here?": Opportunities and Challenges of Using LLMs in Retrieving Information from Web Interfaces** Arxiv
+
+     *Faria Huq, Jeffrey P. Bigham, Nikolas Martelaro* [[pdf](https://arxiv.org/abs/2312.06147)], 2023.12
