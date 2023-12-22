@@ -19,6 +19,10 @@
 
    *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*  [[pdf](https://arxiv.org/abs/2306.15626)], 2023.6.27
 
+1. **METATOOL BENCHMARK FOR LARGE LANGUAGE MODELS: DECIDING WHETHER TO USE TOOLS AND WHICH TO USE**
+
+   *Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun*  [[pdf](https://arxiv.org/abs/2310.03128)], 2023.10.4
+
 1. **Retrieve Anything To Augment Large Language Models**
 
    *Peitian Zhang, Shitao Xiao, Zheng Liu, Zhicheng Dou, Jian-Yun Nie*  [[pdf](https://arxiv.org/abs/2310.07554)], 2023.10.11
