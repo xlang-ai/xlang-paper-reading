@@ -23,6 +23,10 @@
 
    *Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun*  [[pdf](https://arxiv.org/abs/2310.03128)], 2023.10.4
 
+1. **Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning**
+
+   *Yinger Zhang, Hui Cai, Yicheng Chen, Rui Sun, Jing Zheng*  [[pdf](https://arxiv.org/abs/2310.04474)], 2023.10.6
+
 1. **Retrieve Anything To Augment Large Language Models**
 
    *Peitian Zhang, Shitao Xiao, Zheng Liu, Zhicheng Dou, Jian-Yun Nie*  [[pdf](https://arxiv.org/abs/2310.07554)], 2023.10.11
