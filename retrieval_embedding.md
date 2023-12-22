@@ -107,6 +107,10 @@
 
    *Michael H. Prince, Henry Chan, Aikaterini Vriza, Tao Zhou, Varuni K. Sastry, Matthew T. Dearing, Ross J. Harder, Rama K. Vasudevan, Mathew J. Cherukara*  [[pdf](https://arxiv.org/abs/2312.01291)], 2023.12.3
 
+1. **ProTIP: Progressive Tool Retrieval Improves Planning**
+
+   *Raviteja Anantha, Bortik Bandyopadhyay, Anirudh Kashi, Sayantan Mahinder, Andrew W Hill, Srinivas Chappidi*  [[pdf](https://arxiv.org/abs/2312.10332)], 2023.12.16
+
 
 
 
