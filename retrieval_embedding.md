@@ -111,6 +111,10 @@
 
    *Raviteja Anantha, Bortik Bandyopadhyay, Anirudh Kashi, Sayantan Mahinder, Andrew W Hill, Srinivas Chappidi*  [[pdf](https://arxiv.org/abs/2312.10332)], 2023.12.16
 
+1. **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems**
+
+   *Yilun Kong, Jingqing Ruan, Yihong Chen, Bin Zhang, Tianpeng Bao, Shiwei Shi, Guoqing Du, Xiaoru Hu, Hangyu Mao, Ziyue Li, Xingyu Zeng, Rui Zhao*  [[pdf](https://arxiv.org/abs/2311.11315)], 2023.12.19
+
 
 
 
