@@ -76,6 +76,10 @@
 
      *Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2307.10088)], 2023.7
 
+19. **An Empirical Study & Evaluation of Modern CAPTCHAs** Arxiv
+
+     *Andrew Searles, Yoshimichi Nakatsuka, Ercan Ozturk, Andrew Paverd, Gene Tsudik, Ai Enkoji*  [[pdf](https://arxiv.org/abs/2307.12108)], 2023.7
+
 19. **LASER: LLM Agent with State-Space Exploration for Web Navigation** Arxiv
 
      *Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Dong Yu*  [[pdf](https://arxiv.org/abs/2309.08172)], 2023.9
