@@ -127,6 +127,10 @@
 
    *Yilun Kong, Jingqing Ruan, Yihong Chen, Bin Zhang, Tianpeng Bao, Shiwei Shi, Guoqing Du, Xiaoru Hu, Hangyu Mao, Ziyue Li, Xingyu Zeng, Rui Zhao*  [[pdf](https://arxiv.org/abs/2311.11315)], 2023.12.19
 
+1. **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**
+
+   *Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning*  [[pdf](https://arxiv.org/abs/2401.18059)], 2024.01.31
+
 
 
 
