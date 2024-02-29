@@ -1,4 +1,4 @@
-## Paper collection for LLM web grounding
+## Paper collection for LLM GUI autonomous agent
 
 ## Introduction
 
@@ -99,3 +99,19 @@
 23. **"What's important here?": Opportunities and Challenges of Using LLMs in Retrieving Information from Web Interfaces** Arxiv
 
      *Faria Huq, Jeffrey P. Bigham, Nikolas Martelaro* [[pdf](https://arxiv.org/abs/2312.06147)], 2023.12
+
+24. **ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation** Arxiv
+
+     *Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou* [[pdf](https://arxiv.org/abs/2312.13108)], 2023.12
+
+25. **GPT-4V(ision) is a Generalist Web Agent, if Grounded** Arxiv
+
+     *Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su* [[pdf](https://arxiv.org/abs/2401.01614)], 2024.1
+
+26. **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents** Arxiv
+
+     *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu* [[pdf](https://arxiv.org/abs/2401.10935)], 2024.1
+
+27. **OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web** Arxiv
+
+     *Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov* [[pdf](https://arxiv.org/abs/2402.17553)], 2024.2
