@@ -112,6 +112,11 @@
 
      *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu* [[pdf](https://arxiv.org/abs/2401.10935)], 2024.1
 
+27. **ScreenAgent: A Vision Language Model-driven Computer Control Agent** Arxiv
+
+     *Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang* [[pdf](https://arxiv.org/abs/2402.07945)], 2024.2
+
 27. **OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web** Arxiv
 
      *Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov* [[pdf](https://arxiv.org/abs/2402.17553)], 2024.2
+
