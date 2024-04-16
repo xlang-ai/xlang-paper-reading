@@ -120,7 +120,38 @@
 
      *Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang* [[pdf](https://arxiv.org/abs/2402.07945)], 2024.2
 
-27. **OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web** Arxiv
+28. **OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web** Arxiv
 
      *Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov* [[pdf](https://arxiv.org/abs/2402.17553)], 2024.2
 
+29. **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** Arxiv
+
+     *Xing Han Lù, Zdeněk Kasner, Siva Reddy* [[pdf](https://arxiv.org/abs/2402.05930)], 2024.2
+
+30. **Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study** Arxiv
+
+     *Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu, Yifei Bi, Pengjie Gu, Xinrun Wang, Börje F. Karlsson, Bo An, Zongqing Lu* [[pdf](https://arxiv.org/abs/2403.03186)], 2024.3
+
+31. **AgentStudio: A Toolkit for Building General Virtual Agents** Arxiv
+
+     *Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan* [[pdf](https://arxiv.org/abs/2403.17918)], 2024.3
+
+32. **VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?** Arxiv
+
+     *Junpeng Liu, Yifan Song, Bill Yuchen Lin, Wai Lam, Graham Neubig, Yuanzhi Li, Xiang Yue* [[pdf](https://arxiv.org/abs/2404.05955)], 2024.4
+
+33. **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** Arxiv
+
+     *Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu* [[pdf](https://arxiv.org/abs/2404.07972)], 2024.4
+
+34. **WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents** Arxiv
+
+     *Michael Lutz, Arth Bohra, Manvel Saroyan, Artem Harutyunyan, Giovanni Campagna* [[pdf](https://arxiv.org/abs/2404.05902)], 2024.4
+
+35. **Autonomous Evaluation and Refinement of Digital Agents** Arxiv
+
+     *Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr* [[pdf](https://arxiv.org/abs/2404.06474)], 2024.4
+
+36. **MMInA: Benchmarking Multihop Multimodal Internet Agents** Arxiv
+
+     *Ziniu Zhang, Shulin Tian, Liangyu Chen, Ziwei Liu* [[pdf](https://arxiv.org/abs/2404.09992)], 2024.4
