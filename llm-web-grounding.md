@@ -155,3 +155,7 @@
 36. **MMInA: Benchmarking Multihop Multimodal Internet Agents** Arxiv
 
      *Ziniu Zhang, Shulin Tian, Liangyu Chen, Ziwei Liu* [[pdf](https://arxiv.org/abs/2404.09992)], 2024.4
+
+37. **SteP: Stacked LLM Policies for Web Actions** Arxiv
+
+     *Paloma Sodhi, S.R.K. Branavan, Yoav Artzi, Ryan McDonald* [[pdf](https://arxiv.org/abs/2310.03720)], 2024.4
